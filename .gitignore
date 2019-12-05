@@ -1,0 +1,6 @@
+.sonarlint/
+.vscode/
+venv/
+world-seaports.ods
+.~lock.seaports.csv#
+world-seaports.ods
