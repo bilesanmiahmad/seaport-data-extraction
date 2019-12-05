@@ -1,50 +1,50 @@
 ,Country,Port,CODE,Lat/Long,Google coordinates,Telephone,Web
-0,Argentina,Rosario,AR ROS,32° 57' S / 60° 33' W,"32.95, 60.55",[54] (341) 448-7105,www.enapro.com.ar
-1,Argentina,Santa Fe,AR SFN,31° 39' S / 60° 42' W,"31.65, 60.7",[54] (342) 455-8392,www.puertosfe.com
-2,Argentina,Ushuaia,AR USH,54° 49' S / 68° 18' W,"54.81666667, 68.3",[54] (29) 143-5200,www.puertoushuaia.com.ar
-3,Aruba,Oranjestad,AW ORJ,12° 31' N / 70° 2' W,"12.51666667, 70.03333333",[297] 582-6633,www.arubaports.com
-4,Ascension Island,Georgetown,SH ASI,7° 56' S / 14° 25' W,"7.93333333, 14.41666667",[247] 7000,www.ascension-island.gov.ac
-5,Australia,Adelaide,AU PAE,34° 51' S / 138° 30' E,"34.85, 138.5",[61] 8 8248 9300,www.flindersports.com.au/portfacilities2.html
-6,Australia,Brisbane,AU BNE,27° 27' S / 153° 4' E,"27.45, 153.06666667",[61] (7) 3258-4888,www.portbris.com.au
-7,Australia,Cairns,AU CNS,16° 56' S / 145° 47' E,"16.93333333, 145.78333333",[61] (7) 4052-3888,www.cairnsport.com.au
-8,Australia,Darwin,AU DRW,12° 28' S / 130° 50' E,"12.46666667, 130.83333333",[61] (8) 8922 0660,www.darwinport.nt.gov.au
-9,Australia,Devonport,AU DPO,41° 11' S / 146° 22' E,"41.18333333, 146.36666667",[61] (3) 0036-6742,/www.tasports.com.au/port_services/devonport_info.html
-10,Australia,Fremantle,AU FRE,32° 3' S / 115° 44' E,"32.05, 115.73333333",[61] (8) 9430-3555,www.fremantleports.com.au
-11,Australia,Geelong,AU GEX,38° 9' S / 144° 22' E,"38.15, 144.36666667",[61] (3) 5226-6220,www.geelongport.com.au
-12,Australia,Hobart,AU HBA,42° 53' S / 147° 20' E,"42.88333333, 147.33333333",[61] (3) 0036-6742,www.tasports.com.au
-13,Australia,Mackay,AU MKY,21° 6' S / 149° 14' E,"21.1, 149.23333333",[61] (7) 4969-0700,www.mackayports.com
-14,Australia,Melbourne,AU MEL,37° 50' S / 144° 58' E,"37.83333333, 144.96666667",[61] 1300 857 662,www.portofmelbourne.com
-15,Australia,Sydney,AU SYD,33° 55' S / 151° 12' E,"33.91666667, 151.2",[61] (2)9296-4999,www.sydneyports.com.au
-16,Australia,Townsville,AU TSV,19° 15' S / 146° 50' E,"19.25, 146.83333333",[61] (7) 4781-1500,www.townsville-port.com.au
+0,Argentina,Rosario,AR ROS,32° 57' S / 60° 33' W,"-31.05, -59.45",[54] (341) 448-7105,www.enapro.com.ar
+1,Argentina,Santa Fe,AR SFN,31° 39' S / 60° 42' W,"-30.35, -59.3",[54] (342) 455-8392,www.puertosfe.com
+2,Argentina,Ushuaia,AR USH,54° 49' S / 68° 18' W,"-53.18333333, -67.7",[54] (29) 143-5200,www.puertoushuaia.com.ar
+3,Aruba,Oranjestad,AW ORJ,12° 31' N / 70° 2' W,"12.51666667, -69.96666667",[297] 582-6633,www.arubaports.com
+4,Ascension Island,Georgetown,SH ASI,7° 56' S / 14° 25' W,"-6.06666667, -13.58333333",[247] 7000,www.ascension-island.gov.ac
+5,Australia,Adelaide,AU PAE,34° 51' S / 138° 30' E,"-33.15, 138.5",[61] 8 8248 9300,www.flindersports.com.au/portfacilities2.html
+6,Australia,Brisbane,AU BNE,27° 27' S / 153° 4' E,"-26.55, 153.06666667",[61] (7) 3258-4888,www.portbris.com.au
+7,Australia,Cairns,AU CNS,16° 56' S / 145° 47' E,"-15.06666667, 145.78333333",[61] (7) 4052-3888,www.cairnsport.com.au
+8,Australia,Darwin,AU DRW,12° 28' S / 130° 50' E,"-11.53333333, 130.83333333",[61] (8) 8922 0660,www.darwinport.nt.gov.au
+9,Australia,Devonport,AU DPO,41° 11' S / 146° 22' E,"-40.81666667, 146.36666667",[61] (3) 0036-6742,/www.tasports.com.au/port_services/devonport_info.html
+10,Australia,Fremantle,AU FRE,32° 3' S / 115° 44' E,"-31.95, 115.73333333",[61] (8) 9430-3555,www.fremantleports.com.au
+11,Australia,Geelong,AU GEX,38° 9' S / 144° 22' E,"-37.85, 144.36666667",[61] (3) 5226-6220,www.geelongport.com.au
+12,Australia,Hobart,AU HBA,42° 53' S / 147° 20' E,"-41.11666667, 147.33333333",[61] (3) 0036-6742,www.tasports.com.au
+13,Australia,Mackay,AU MKY,21° 6' S / 149° 14' E,"-20.9, 149.23333333",[61] (7) 4969-0700,www.mackayports.com
+14,Australia,Melbourne,AU MEL,37° 50' S / 144° 58' E,"-36.16666667, 144.96666667",[61] 1300 857 662,www.portofmelbourne.com
+15,Australia,Sydney,AU SYD,33° 55' S / 151° 12' E,"-32.08333333, 151.2",[61] (2)9296-4999,www.sydneyports.com.au
+16,Australia,Townsville,AU TSV,19° 15' S / 146° 50' E,"-18.75, 146.83333333",[61] (7) 4781-1500,www.townsville-port.com.au
 17,Azerbaijan,Baku,AZ BAK,40° 20' N / 49° 51' E,"40.33333333, 49.85",(99412) - 493 02 68,www.bakuseaport.az
-18,Bahamas,Freeport,BS FPO,25° 00' N / 78° 46' W,"25.0, 78.76666667",[1] (2242) 350-9051,http://gbpa.com
-19,Bahamas,Nassau,BS NAS,25° 5' N / 77° 20' W,"25.08333333, 77.33333333",[1] (809) 322-8832,
+18,Bahamas,Freeport,BS FPO,25° 00' N / 78° 46' W,"25.0, -77.23333333",[1] (2242) 350-9051,http://gbpa.com
+19,Bahamas,Nassau,BS NAS,25° 5' N / 77° 20' W,"25.08333333, -76.66666667",[1] (809) 322-8832,
 20,Bahrain,Mina Salman,BH MIN,26° 12' N / 50° 37' E,"26.2, 50.61666667",[973] 1775 7744,
 21,Bahrain,Sitra,BH SIT,26° 9' N / 50° 40' E,"26.15, 50.66666667",[973] 1775-7744,
 22,Bangladesh,Chittagong,BD CGP,22° 19' N / 91° 48' E,"22.31666667, 91.8",[880] (31) 252-2200,www.cpa.gov.bd
 23,Bangladesh,Mongla,BD MGL,22° 29' N / 89° 35' E,"22.48333333, 89.58333333",[880] (46) 627-5200,http://ports.com/bangladesh/port-of-mongla
-24,Barbados,Bridgetown,BB BGI,13° 6' N / 59° 38' W,"13.1, 59.63333333",[1] (246) 430-4700,www.barbadosport.com
+24,Barbados,Bridgetown,BB BGI,13° 6' N / 59° 38' W,"13.1, -58.36666667",[1] (246) 430-4700,www.barbadosport.com
 25,Belgium,Antwerp,BE ANR,51° 14' N / 4° 23' E,"51.23333333, 4.38333333",[32] (3) 205-2011,www.portofantwerp.be
 26,Belgium,Brussels (Bruxelles),BE BRU,50° 52' N / 4° 21' E,"50.86666667, 4.35",[32] (2) 420-6700,www.portdebruxelles.irisnet.be
 27,Belgium,Ghent,BE GNE,51° 2' N / 3° 44' E,"51.03333333, 3.73333333",[32] (9) 251-0550,www.portofghent.be
 28,Belgium,Liege,BE LGG,50° 40' N / 5° 34' E,"50.66666667, 5.56666667",[32] (4) 232-9797,www.portdeliege.be
 29,Belgium,Zeebrugge,BE ZEE,51° 20' N / 3° 13' E,"51.33333333, 3.21666667",[32] (50) 543-211,www.zeebruggeport.be
-30,Belize,Belize City,BZ BZE,17° 29' N / 88° 11' W,"17.48333333, 88.18333333",[501] 227-2480,
+30,Belize,Belize City,BZ BZE,17° 29' N / 88° 11' W,"17.48333333, -87.81666667",[501] 227-2480,
 31,Benin,Cotonou,BJ COO,6° 20' N / 2° 32' E,"6.33333333, 2.53333333",[229] 2131-2890,www.portdecotonou.com
-32,Bermuda,Hamilton,BM BDA,32° 17' N / 64° 47' W,"32.28333333, 64.78333333",[1] (441) 292-1234,
-33,Bermuda,St Georges,BM SGE,32° 22' N / 64° 42' W,"32.36666667, 64.7",[1] (441) 295-6575,
-34,Brazil,Belem,BR BEL,1° 28' S / 48° 29' W,"1.46666667, 48.48333333",[55] (91) 3182- 9012,www.cdp.com.br
-35,Brazil,Fortaleza,BR FOR,3° 41' S / 38° 33' W,"3.68333333, 38.55",[55] (85) 3266-8800,www.docasdoceara.com.br
-36,Brazil,Imbituba,BR IBB,28° 13' S / 48° 38' W,"28.21666667, 48.63333333",[55] (48) 3255-0080,www.cdiport.com.br
-37,Brazil,Manaus,BR MAO,3° 8' S / 60° 0' W,"3.13333333, 60.0",[55] (92) 2123 4350,www.portodemanaus.com.br
-38,Brazil,Paranagua,BR PNG,25° 30' S / 48° 30' W,"25.5, 48.5",[55] (41) 3420-1100,www.portosdoparana.pr.gov.br
-39,Brazil,Porto Alegre,BR POA,30° 5' S / 51° 15' W,"30.08333333, 51.25",[55] (51) 3211-5022,
-40,Brazil,Recife,BR REC,8° 4' S / 34° 52' W,"8.06666667, 34.86666667",[55] (81) 3183.1900,www.portodorecife.pe.gov.br
-41,Brazil,Rio De Janeiro,BR RIO,22° 54' S / 43° 12' W,"22.9, 43.2",[55] (21) 2219-9542,www.portosrio.gov.br
-42,Brazil,Rio Grande,BR RIG,32° 3' S / 52° 5' W,"32.05, 52.08333333",[55] (53) 3231-1366,www.portoriogrande.com.br
-43,Brazil,Salvador,BR SSA,13° 1' S / 38° 35' W,"13.01666667, 38.58333333",[55] (71) 3320-1285,www.codeba.com.br
-44,Brazil,Santos,BR SSZ,23° 56' S / 46° 19' W,"23.93333333, 46.31666667",[55] (13) 3202-6565,www.portodesantos.com.br
-45,Brazil,Vitoria,BR VIX,20° 19' S / 40° 17' W,"20.31666667, 40.28333333",[55] (27) 3132-7314,www.portodevitoria.com.br
+32,Bermuda,Hamilton,BM BDA,32° 17' N / 64° 47' W,"32.28333333, -63.21666667",[1] (441) 292-1234,
+33,Bermuda,St Georges,BM SGE,32° 22' N / 64° 42' W,"32.36666667, -63.3",[1] (441) 295-6575,
+34,Brazil,Belem,BR BEL,1° 28' S / 48° 29' W,"-0.53333333, -47.51666667",[55] (91) 3182- 9012,www.cdp.com.br
+35,Brazil,Fortaleza,BR FOR,3° 41' S / 38° 33' W,"-2.31666667, -37.45",[55] (85) 3266-8800,www.docasdoceara.com.br
+36,Brazil,Imbituba,BR IBB,28° 13' S / 48° 38' W,"-27.78333333, -47.36666667",[55] (48) 3255-0080,www.cdiport.com.br
+37,Brazil,Manaus,BR MAO,3° 8' S / 60° 0' W,"-2.86666667, -60.0",[55] (92) 2123 4350,www.portodemanaus.com.br
+38,Brazil,Paranagua,BR PNG,25° 30' S / 48° 30' W,"-24.5, -47.5",[55] (41) 3420-1100,www.portosdoparana.pr.gov.br
+39,Brazil,Porto Alegre,BR POA,30° 5' S / 51° 15' W,"-29.91666667, -50.75",[55] (51) 3211-5022,
+40,Brazil,Recife,BR REC,8° 4' S / 34° 52' W,"-7.93333333, -33.13333333",[55] (81) 3183.1900,www.portodorecife.pe.gov.br
+41,Brazil,Rio De Janeiro,BR RIO,22° 54' S / 43° 12' W,"-21.1, -42.8",[55] (21) 2219-9542,www.portosrio.gov.br
+42,Brazil,Rio Grande,BR RIG,32° 3' S / 52° 5' W,"-31.95, -51.91666667",[55] (53) 3231-1366,www.portoriogrande.com.br
+43,Brazil,Salvador,BR SSA,13° 1' S / 38° 35' W,"-12.98333333, -37.41666667",[55] (71) 3320-1285,www.codeba.com.br
+44,Brazil,Santos,BR SSZ,23° 56' S / 46° 19' W,"-22.06666667, -45.68333333",[55] (13) 3202-6565,www.portodesantos.com.br
+45,Brazil,Vitoria,BR VIX,20° 19' S / 40° 17' W,"-19.68333333, -39.71666667",[55] (27) 3132-7314,www.portodevitoria.com.br
 46,Brunei Darussalam,Kuala Belait,BN KUB,4° 38' N / 114° 12' E,"4.63333333, 114.2",[673] 333-5298,
 47,Brunei Darussalam,Muara,BN MUA,5° 1' N / 115° 4' E,"5.01666667, 115.06666667",[673] 277-0222,www.ports.gov.bn
 48,Bulgaria,Varna,BG VAR,43° 12' N / 27° 57' E,"43.2, 27.95",[359] (52) 692-232,www.port-varna.bg
@@ -53,38 +53,38 @@
 51,Cameroon,Douala,CM DLA,4° 3' N / 9° 42' E,"4.05, 9.7",[237] 33428836,www.otal.com/cameroon/index.htm
 52,Cameroon,Kribi,CM KBI,2° 56' N / 9° 56' E,"2.93333333, 9.93333333",[237] 342-0133,
 53,Cameroon,Tiko,CM TKC,4° 4' N / 9° 24' E,"4.06666667, 9.4",[237] 342-0133,
-54,Canada,Alberni,CM PAB,"49° 14' 0"" N / 124° 48' 0"" W","49.23333333, 124.8",(250) 723 5312,http://portalberniportauthority.ca
-55,Canada,Becancour,CA BEC,46° 24' N / 72° 23' W,"46.4, 72.38333333",[1] (819) 294-6656,www.spipb.com
-56,Canada,Churchill,CA CHV,58° 47' N / 94° 12' W,"58.78333333, 94.2",[1] (204) 947-0033,www.portofchurchill.ca
+54,Canada,Alberni,CM PAB,"49° 14' 0"" N / 124° 48' 0"" W","49.23333333, -123.2",(250) 723 5312,http://portalberniportauthority.ca
+55,Canada,Becancour,CA BEC,46° 24' N / 72° 23' W,"46.4, -71.61666667",[1] (819) 294-6656,www.spipb.com
+56,Canada,Churchill,CA CHV,58° 47' N / 94° 12' W,"58.78333333, -93.8",[1] (204) 947-0033,www.portofchurchill.ca
 57,Canada,Fraser River Port (Port of New Westminster),CA NWE,49° 21' N / 122° 54' E,"49.35, 122.9",,www.portmetrovancouver.com
-58,Canada,Halifax,CA HAL,44° 39' N / 63° 34' W,"44.65, 63.56666667",[1] (902) 426-8222,www.portofhalifax.ca
-59,Canada,Hamilton,CA HAM,43° 17' N / 79° 50' W,"43.28333333, 79.83333333",[1] (905) 525-4330,www.hamiltonport.ca
-60,Canada,Halifax,CA HAL,44° 39' N / 63° 34' W,"44.65, 63.56666667",[1] (902) 426-8222,www.portofhalifax.ca
-61,Canada,Montreal,CA MTR,45° 30' N / 73° 35' W,"45.5, 73.58333333",[1] (514) 283-7011,www.port-montreal.com
-62,Canada,Nanaimo,CA NNO,"49° 10' 10"" N / 123° 55' 55"" W","49.16944444, 123.93194444",[1] (250) 753-4146,www.npa.ca
-63,Canada,Saguenay,,"48° 24' 3"" N / 70° 49' 57"" W","48.40083333, 70.8325",[1] (418) 697-0250,www.portsaguenay.ca
-64,Canada,Sept Iles (Seven Islands),CA SEI,50° 11' N / 66° 23' W,"50.18333333, 66.38333333",[1] (418) 968-1231,www.portsi.com
-65,Canada,St Johns,CA SJF,47° 34' N / 52° 42' W,"47.56666667, 52.7",[1] (709) 738-4782,www.sjpa.com
-66,Canada,Sydney,CA SYD,46° 9' N / 60° 12' W,"46.15, 60.2",[1] (902) 564-0800,www.portofsydney.ca
-67,Canada,Thunder Bay,CA THU,48° 25' N / 89° 13' W,"48.41666667, 89.21666667",[1] (807) 345-6400,www.portofthunderbay.ca
-68,Canada,Toronto,CA TOR,43° 38' N / 79° 23' W,"43.63333333, 79.38333333",[1] (416) 462-0263,www.torontoport.com
-69,Canada,Trois-Rivieres,CA TRR,46° 22' N / 72° 34' W,"46.36666667, 72.56666667",[1] (819) 378-2887,www.porttr.com
-70,Canada,Vancouver,CA VAN,49° 17' N / 123° 7' W,"49.28333333, 123.11666667",[1] (604) 665-9000,www.portmetrovancouver.com
-71,Canada,Windsor,CA WND,42° 19' N / 83° 4' W,"42.31666667, 83.06666667",[1] (519) 258-5741,www.portwindsor.com
-72,Canary Islands,Las Palmas,ES LPA,28° 5' N / 15° 27' W,"28.08333333, 15.45",[34] (928) 612.211,www.palmasport.es
-73,Canary Islands,Santa Cruz de Tenerife,ES SCT,28° 28' N / 16° 14' W,"28.46666667, 16.23333333",[34] (922) 605-426,www.puertosdetenerife.org/
-74,Cape Verde,Porto Grande,CV PGR,16° 53' N / 25° 0' W,"16.88333333, 25.0",[238] 230-7500,www.enapor.cv
-75,Cayman Islands,"Georgetown, Grand Cayman",KY GEC,19° 18' N / 81° 23' W,"19.3, 81.38333333",[1] (345) 949-2055,www.caymanport.com
-76,Chile,Antofagasta,CL ANF,23° 39' S / 70° 25' W,"23.65, 70.41666667",[56] (55) 563-756,www.puertoantofagasta.cl
-77,Chile,Arica,CL ARI,18° 28' S / 70° 20' W,"18.46666667, 70.33333333",[56] (58) 202-080,www.puertoarica.cl
-78,Chile,Chanaral,CL CNR,26° 21' S / 70° 38' W,"26.35, 70.63333333",,www.directemar.cl
-79,Chile,Iquique,CL IQQ,20° 12' S / 70° 9' W,"20.2, 70.15",[56] (57) 400-100,www.epi.cl
-80,Chile,Puerto Montt,CL PMC,41° 28' S / 72° 57' W,"41.46666667, 72.95",[56] (65)36-4507,www.empormontt.cl/
-81,Chile,Punta Arenas,CL PUQ,53° 10' S / 70° 54' W,"53.16666667, 70.9",[56] (61) 711-200,www.epa.co.cl
-82,Chile,San Antonio,CL SAI,33° 35' S / 71° 37' W,"33.58333333, 71.61666667",[56] (35) 586-000,www.saiport.cl
-83,Chile,San Vicente,CL SVE,36° 44' S / 73° 9' W,"36.73333333, 73.15",[56] (41) 279-7600,www.worldportsource.com/ports/CHL_Port_of_San_Vicente_1742.php
-84,Chile,Talcahuano,CL TAL,36° 41' S / 73° 6' W,"36.68333333, 73.1",,
-85,Chile,Valparaiso,CL VAP,33° 2' S / 71° 38' W,"33.03333333, 71.63333333",[56] (32) 244-8800,www.portvalparaiso.cl
+58,Canada,Halifax,CA HAL,44° 39' N / 63° 34' W,"44.65, -62.43333333",[1] (902) 426-8222,www.portofhalifax.ca
+59,Canada,Hamilton,CA HAM,43° 17' N / 79° 50' W,"43.28333333, -78.16666667",[1] (905) 525-4330,www.hamiltonport.ca
+60,Canada,Halifax,CA HAL,44° 39' N / 63° 34' W,"44.65, -62.43333333",[1] (902) 426-8222,www.portofhalifax.ca
+61,Canada,Montreal,CA MTR,45° 30' N / 73° 35' W,"45.5, -72.41666667",[1] (514) 283-7011,www.port-montreal.com
+62,Canada,Nanaimo,CA NNO,"49° 10' 10"" N / 123° 55' 55"" W","49.16944444, -122.06805556",[1] (250) 753-4146,www.npa.ca
+63,Canada,Saguenay,,"48° 24' 3"" N / 70° 49' 57"" W","48.40083333, -69.1675",[1] (418) 697-0250,www.portsaguenay.ca
+64,Canada,Sept Iles (Seven Islands),CA SEI,50° 11' N / 66° 23' W,"50.18333333, -65.61666667",[1] (418) 968-1231,www.portsi.com
+65,Canada,St Johns,CA SJF,47° 34' N / 52° 42' W,"47.56666667, -51.3",[1] (709) 738-4782,www.sjpa.com
+66,Canada,Sydney,CA SYD,46° 9' N / 60° 12' W,"46.15, -59.8",[1] (902) 564-0800,www.portofsydney.ca
+67,Canada,Thunder Bay,CA THU,48° 25' N / 89° 13' W,"48.41666667, -88.78333333",[1] (807) 345-6400,www.portofthunderbay.ca
+68,Canada,Toronto,CA TOR,43° 38' N / 79° 23' W,"43.63333333, -78.61666667",[1] (416) 462-0263,www.torontoport.com
+69,Canada,Trois-Rivieres,CA TRR,46° 22' N / 72° 34' W,"46.36666667, -71.43333333",[1] (819) 378-2887,www.porttr.com
+70,Canada,Vancouver,CA VAN,49° 17' N / 123° 7' W,"49.28333333, -122.88333333",[1] (604) 665-9000,www.portmetrovancouver.com
+71,Canada,Windsor,CA WND,42° 19' N / 83° 4' W,"42.31666667, -82.93333333",[1] (519) 258-5741,www.portwindsor.com
+72,Canary Islands,Las Palmas,ES LPA,28° 5' N / 15° 27' W,"28.08333333, -14.55",[34] (928) 612.211,www.palmasport.es
+73,Canary Islands,Santa Cruz de Tenerife,ES SCT,28° 28' N / 16° 14' W,"28.46666667, -15.76666667",[34] (922) 605-426,www.puertosdetenerife.org/
+74,Cape Verde,Porto Grande,CV PGR,16° 53' N / 25° 0' W,"16.88333333, -25.0",[238] 230-7500,www.enapor.cv
+75,Cayman Islands,"Georgetown, Grand Cayman",KY GEC,19° 18' N / 81° 23' W,"19.3, -80.61666667",[1] (345) 949-2055,www.caymanport.com
+76,Chile,Antofagasta,CL ANF,23° 39' S / 70° 25' W,"-22.35, -69.58333333",[56] (55) 563-756,www.puertoantofagasta.cl
+77,Chile,Arica,CL ARI,18° 28' S / 70° 20' W,"-17.53333333, -69.66666667",[56] (58) 202-080,www.puertoarica.cl
+78,Chile,Chanaral,CL CNR,26° 21' S / 70° 38' W,"-25.65, -69.36666667",,www.directemar.cl
+79,Chile,Iquique,CL IQQ,20° 12' S / 70° 9' W,"-19.8, -69.85",[56] (57) 400-100,www.epi.cl
+80,Chile,Puerto Montt,CL PMC,41° 28' S / 72° 57' W,"-40.53333333, -71.05",[56] (65)36-4507,www.empormontt.cl/
+81,Chile,Punta Arenas,CL PUQ,53° 10' S / 70° 54' W,"-52.83333333, -69.1",[56] (61) 711-200,www.epa.co.cl
+82,Chile,San Antonio,CL SAI,33° 35' S / 71° 37' W,"-32.41666667, -70.38333333",[56] (35) 586-000,www.saiport.cl
+83,Chile,San Vicente,CL SVE,36° 44' S / 73° 9' W,"-35.26666667, -72.85",[56] (41) 279-7600,www.worldportsource.com/ports/CHL_Port_of_San_Vicente_1742.php
+84,Chile,Talcahuano,CL TAL,36° 41' S / 73° 6' W,"-35.31666667, -72.9",,
+85,Chile,Valparaiso,CL VAP,33° 2' S / 71° 38' W,"-32.96666667, -70.36666667",[56] (32) 244-8800,www.portvalparaiso.cl
 86,China,Dalian,CN DLC,38° 55' N / 121° 40' E,"38.91666667, 121.66666667",[86] (400) 668-5666,www.portdalian.com.cn
 87,China,Fuzhou,CN FOC,26° 3' N / 119° 18' E,"26.05, 119.3",[86] (591) 8377-2133,www.fjgh.gov.cn
 88,China,Guangzhou,CN CAN,23° 6' N / 113° 14' E,"23.1, 113.23333333",[86] (20) 8305-0922,www.gzport.com
@@ -99,22 +99,22 @@
 97,China,Tianjin,CN TSN,39° 6' N / 117° 10' E,"39.1, 117.16666667",[86] (22) 2570-7070,www.ptacn.com
 98,China,Xiamen,CN XMN,24° 27' N / 118° 2' E,"24.45, 118.03333333",[86] (592) 220-1652,www.portxiamen.com.cn
 99,China,Zhanjiang,CN ZHA,21° 11' N / 110° 24' E,"21.18333333, 110.4",[86] (759) 204-1418,www.zjport.com
-100,Colombia,Barranquilla,CO BAQ,10° 58' N / 74° 47' W,"10.96666667, 74.78333333",[57] (5) 371-6200,www.sprb.com.co
-101,Colombia,Buenaventura,CO BUN,3° 53' N / 77° 5' W,"3.88333333, 77.08333333",[57] (224) 241-0700,www.sprbun.com
-102,Colombia,Cartagena,CO CTG,10° 26' N / 75° 33' W,"10.43333333, 75.55",[57] (5) 660-7781,www.puertocartagena.com
-103,Colombia,Puerto Bolivar,CO PBO,12° 16' N / 71° 58' W,"12.26666667, 71.96666667",[57] (1) 287-7960,
-104,Colombia,Tumaco,CO TCO,1° 49' N / 78° 45' W,"1.81666667, 78.75",,
-105,Colombia,Turbo,CO TRB,8° 0' N / 76° 50' W,"8.0, 76.83333333",,
-106,Comoros,Moroni,KM YVA,11° 42' S / 43° 44' E,"11.7, 43.73333333",[269] 730-008,
-107,Comoros,Mutsamudu,KM MUT,12° 10' S / 44° 24' E,"12.16666667, 44.4",[269] 710-143,
-108,Congo,Pointe Noire,CG PNR,4° 47' S / 11° 49' E,"4.78333333, 11.81666667",[242] 775-0903,www.otal.com/congo
-109,"Congo, Dem. Republic of",Banana,ZR BNW,6° 1' S / 12° 25' E,"6.01666667, 12.41666667",[243] (1) 522-4761,
-110,"Congo, Dem. Republic of",Boma,ZR BOA,5° 51' S / 13° 3' E,"5.85, 13.05",[243] (1) 520-287 (port agent),
-111,Costa Rica,Caldera,CR CAL,9° 54' N / 84° 43' W,"9.9, 84.71666667",[506] 634-4169,www.worldportsource.com/ports/CRI_Puerto_de_Caldera_1462.php
-112,Costa Rica,Golfito,CR GLF,8° 37' N / 83° 10' W,"8.61666667, 83.16666667",[506] 775-0097,
-113,Costa Rica,Puntarenas,CR PAS,9° 58' N / 84° 50' W,"9.96666667, 84.83333333",[506] 634-4169,
-114,Costa Rica,Quepos,CR XQP,9° 25' N / 84° 10' W,"9.41666667, 84.16666667",[506] 634-4169,
-115,Côte d'Ivoire,Abidjan,CI ABJ,5° 18' N / 4° 0' W,"5.3, 4.0",,www.paa-ci.org
+100,Colombia,Barranquilla,CO BAQ,10° 58' N / 74° 47' W,"10.96666667, -73.21666667",[57] (5) 371-6200,www.sprb.com.co
+101,Colombia,Buenaventura,CO BUN,3° 53' N / 77° 5' W,"3.88333333, -76.91666667",[57] (224) 241-0700,www.sprbun.com
+102,Colombia,Cartagena,CO CTG,10° 26' N / 75° 33' W,"10.43333333, -74.45",[57] (5) 660-7781,www.puertocartagena.com
+103,Colombia,Puerto Bolivar,CO PBO,12° 16' N / 71° 58' W,"12.26666667, -70.03333333",[57] (1) 287-7960,
+104,Colombia,Tumaco,CO TCO,1° 49' N / 78° 45' W,"1.81666667, -77.25",,
+105,Colombia,Turbo,CO TRB,8° 0' N / 76° 50' W,"8.0, -75.16666667",,
+106,Comoros,Moroni,KM YVA,11° 42' S / 43° 44' E,"-10.3, 43.73333333",[269] 730-008,
+107,Comoros,Mutsamudu,KM MUT,12° 10' S / 44° 24' E,"-11.83333333, 44.4",[269] 710-143,
+108,Congo,Pointe Noire,CG PNR,4° 47' S / 11° 49' E,"-3.21666667, 11.81666667",[242] 775-0903,www.otal.com/congo
+109,"Congo, Dem. Republic of",Banana,ZR BNW,6° 1' S / 12° 25' E,"-5.98333333, 12.41666667",[243] (1) 522-4761,
+110,"Congo, Dem. Republic of",Boma,ZR BOA,5° 51' S / 13° 3' E,"-4.15, 13.05",[243] (1) 520-287 (port agent),
+111,Costa Rica,Caldera,CR CAL,9° 54' N / 84° 43' W,"9.9, -83.28333333",[506] 634-4169,www.worldportsource.com/ports/CRI_Puerto_de_Caldera_1462.php
+112,Costa Rica,Golfito,CR GLF,8° 37' N / 83° 10' W,"8.61666667, -82.83333333",[506] 775-0097,
+113,Costa Rica,Puntarenas,CR PAS,9° 58' N / 84° 50' W,"9.96666667, -83.16666667",[506] 634-4169,
+114,Costa Rica,Quepos,CR XQP,9° 25' N / 84° 10' W,"9.41666667, -83.83333333",[506] 634-4169,
+115,Côte d'Ivoire,Abidjan,CI ABJ,5° 18' N / 4° 0' W,"5.3, -4.0",,www.paa-ci.org
 116,Croatia,Rijeka Bakar,HR RJK,45° 19' N / 14° 26' E,"45.31666667, 14.43333333",[385] (51) 351-111,www.portauthority.hr/english/rijeka/port_rijeka_authority.shtml
 117,Croatia,Zadar,HR ZAD,44° 7' N / 15° 14' E,"44.11666667, 15.23333333",[385] (23) 314-520,www.portauthority.hr/zadar.html
 118,Croatia,Dubrovnik,HR DBV,42° 39' N / 18° 5' E,"42.65, 18.08333333",[385] (21) 418-511,www.portauthority.hr/dubrovni.html
@@ -123,11 +123,11 @@
 121,Croatia,Pula,HR PUY,44° 51' N / 13° 51' E,"44.85, 13.85",[385] (52) 383-160,http://ports.com/croatia/port-of-pula
 122,Croatia,Sibenik,HR SIB,43° 44' N / 15° 53' E,"43.73333333, 15.88333333",[385] (22) 218-001,www.portauthority-sibenik.hr/en
 123,Croatia,Split,HR SPU,43° 31' N / 16° 26' E,"43.51666667, 16.43333333",[385] (21) 362-501,www.portauthority.hr/split.html
-124,Cuba,Havana,CU HAV,23° 9' N / 82° 21' W,"23.15, 82.35",[53] (7) 814-505,
-125,Cuba,Manzanillo,CU MZO,20° 20' N / 77° 12' W,"20.33333333, 77.2",[53] (23) 52-123,
-126,Cuba,Matanzas,CU QMA,23° 3' N / 81° 34' W,"23.05, 81.56666667",[53] (7) 814-505,
-127,Cuba,Nuevitas,CU NVT,21° 33' N / 77° 16' W,"21.55, 77.26666667",[53] (7) 814-505,
-128,Cuba,Santiago de Cuba,CU SCU,19° 50' N / 75° 52' W,"19.83333333, 75.86666667",[53] (22) 653-073,
+124,Cuba,Havana,CU HAV,23° 9' N / 82° 21' W,"23.15, -81.65",[53] (7) 814-505,
+125,Cuba,Manzanillo,CU MZO,20° 20' N / 77° 12' W,"20.33333333, -76.8",[53] (23) 52-123,
+126,Cuba,Matanzas,CU QMA,23° 3' N / 81° 34' W,"23.05, -80.43333333",[53] (7) 814-505,
+127,Cuba,Nuevitas,CU NVT,21° 33' N / 77° 16' W,"21.55, -76.73333333",[53] (7) 814-505,
+128,Cuba,Santiago de Cuba,CU SCU,19° 50' N / 75° 52' W,"19.83333333, -74.13333333",[53] (22) 653-073,
 129,Cyprus,Akrotiri,CY AKT,34° 34' N / 33° 2' E,"34.56666667, 33.03333333",[357] 2281-7200,www.cpa.gov.cy
 130,Cyprus,Famagusta,CY FMG,35° 7' N / 33° 57' E,"35.11666667, 33.95",[90] (392) 365-4388,
 131,Cyprus,Larnaca,CY LAT,35° 3' N / 32° 24' E,"35.05, 32.4",[357] 2281-7200,www.cpa.gov.cy
@@ -142,38 +142,38 @@
 140,Denmark,Odense,DK ODE,55° 25' N / 10° 23' E,"55.41666667, 10.38333333",[45] 6612-0792,www.odensehavn.dk
 141,Denmark,Ronne,DK RNN,55° 5' N / 14° 41' E,"55.08333333, 14.68333333",[45] 5695-0678,www.roennehavn.dk
 142,Djibouti,Djibouti,DJ JIB,11° 36' N / 43° 8' E,"11.6, 43.13333333",[243] 352-331,
-143,Dominica,Portsmouth,DM POR,15° 34' N / 61° 28' W,"15.56666667, 61.46666667",[1] (767) 448-4431,
-144,Dominica,Roseau,DM RSU,15° 17' N / 61° 24' W,"15.28333333, 61.4",[1] (767) 448-4431,
-145,Dominican Republic,Barahona,DO BRX,18° 12' N / 71° 4' W,"18.2, 71.06666667",[1] (809) 538-2283,
-146,Dominican Republic,La Romana,DO LRM,18° 27' N / 69° 1' W,"18.45, 69.01666667",[1] (809) 538-2283,
-147,Dominican Republic,Puerto Plata,DO POP,19° 49' N / 70° 42' W,"19.81666667, 70.7",[1] (809) 538-2283,
-148,Dominican Republic,Rio Haina,DO HAI,18° 25' N / 70° 0' W,"18.41666667, 70.0",[1] (809) 538-2283,
-149,Dominican Republic,San Pedro de Macoris,DO SPM,18° 26' N / 69° 18' W,"18.43333333, 69.3",[1] (809) 538-2283,
+143,Dominica,Portsmouth,DM POR,15° 34' N / 61° 28' W,"15.56666667, -60.53333333",[1] (767) 448-4431,
+144,Dominica,Roseau,DM RSU,15° 17' N / 61° 24' W,"15.28333333, -60.6",[1] (767) 448-4431,
+145,Dominican Republic,Barahona,DO BRX,18° 12' N / 71° 4' W,"18.2, -70.93333333",[1] (809) 538-2283,
+146,Dominican Republic,La Romana,DO LRM,18° 27' N / 69° 1' W,"18.45, -68.98333333",[1] (809) 538-2283,
+147,Dominican Republic,Puerto Plata,DO POP,19° 49' N / 70° 42' W,"19.81666667, -69.3",[1] (809) 538-2283,
+148,Dominican Republic,Rio Haina,DO HAI,18° 25' N / 70° 0' W,"18.41666667, -70.0",[1] (809) 538-2283,
+149,Dominican Republic,San Pedro de Macoris,DO SPM,18° 26' N / 69° 18' W,"18.43333333, -68.7",[1] (809) 538-2283,
 150,Dominican Republic,Santo Domingo,DO SDQ,18° 28' N / 18° 28' N,"18.46666667, 18.46666667",[1] (809) 538-2283,
-151,Ecuador,Esmeraldas,EC ESM,1° 0' N / 79° 38' W,"1.0, 79.63333333",[593] (6) 272-1355,www.puertodeesmeraldas.com
-152,Ecuador,Guayaquil,EC GYE,2° 16' S / 79° 54' W,"2.26666667, 79.9",[593] (6) 272-1934,www.apg.com.ec
-153,Ecuador,La Libertad,EC LLD,2° 12' S / 80° 55' W,"2.2, 80.91666667",[593] (4) 278-4363,
-154,Ecuador,Manta,EC MEC,0° 55' S / 80° 43' W,"0.91666667, 80.71666667",[593] (5) 262-7161,www.apmanta.gov.ec
-155,Ecuador,Puerto Bolivar,EC PBO,3° 15' S / 80° 1' W,"3.25, 80.01666667",[593] (7) 292--9999,www.worldportsource.com/ports/ECU_Port_of_Puerto_Bol_var_95.php
-156,Ecuador,San Lorenzo,EC SLR,1° 10' S / 78° 50' W,"1.16666667, 78.83333333",,
+151,Ecuador,Esmeraldas,EC ESM,1° 0' N / 79° 38' W,"1.0, -78.36666667",[593] (6) 272-1355,www.puertodeesmeraldas.com
+152,Ecuador,Guayaquil,EC GYE,2° 16' S / 79° 54' W,"-1.73333333, -78.1",[593] (6) 272-1934,www.apg.com.ec
+153,Ecuador,La Libertad,EC LLD,2° 12' S / 80° 55' W,"-1.8, -79.08333333",[593] (4) 278-4363,
+154,Ecuador,Manta,EC MEC,0° 55' S / 80° 43' W,"0.91666667, -79.28333333",[593] (5) 262-7161,www.apmanta.gov.ec
+155,Ecuador,Puerto Bolivar,EC PBO,3° 15' S / 80° 1' W,"-2.75, -79.98333333",[593] (7) 292--9999,www.worldportsource.com/ports/ECU_Port_of_Puerto_Bol_var_95.php
+156,Ecuador,San Lorenzo,EC SLR,1° 10' S / 78° 50' W,"-0.83333333, -77.16666667",,
 157,Egypt,Alexandria,EG EDK,31° 8' N / 29° 49' E,"31.13333333, 29.81666667",[20] (3) 483-1640,www.imsalex.com/alexport.html
 158,Egypt,Damietta,EG DAM,31° 28' N / 31° 45' E,"31.46666667, 31.75",[20] (57) 325-940,www.worldportsource.com/ports/EGY_Port_of_Damietta_670.php
 159,Egypt,Port Said,EG PSD,31° 16' N / 32° 19' E,"31.26666667, 32.31666667",[20] (66) 325-4960,www.scctportsaid.com
 160,Egypt,Suez (Al Suweis),EG,29° 58' N / 32° 33' E,"29.96666667, 32.55",[20] (62) 910-000,
-161,El Salvador,Acajutla,SV AQJ,13° 35' N / 89° 50' W,"13.58333333, 89.83333333",[503] 2452-3200,www.puertoacajutla.gob.sv
-162,El Salvador,Cutuco,SV CUT,13° 28' N / 89° 49' W,"13.46666667, 89.81666667",[503] 664-4222,
+161,El Salvador,Acajutla,SV AQJ,13° 35' N / 89° 50' W,"13.58333333, -88.16666667",[503] 2452-3200,www.puertoacajutla.gob.sv
+162,El Salvador,Cutuco,SV CUT,13° 28' N / 89° 49' W,"13.46666667, -88.18333333",[503] 664-4222,
 163,Equatorial Guinea,Bata,GQ BSG,1° 52' N / 9° 46' E,"1.86666667, 9.76666667",[240] 27-752,
 164,Equatorial Guinea,Ceiba Marine Terminal,,1° 25' N / 9° 14' E,"1.41666667, 9.23333333",[1] (713) 609-4755,
 165,Equatorial Guinea,Malabo (Rey Malabo),GQ SSG,3° 46' N / 8° 47' E,"3.76666667, 8.78333333",[291] (9) 3564,
 166,Estonia,Pärnu,EE PYA,58° 23' N / 24° 29' E,"58.38333333, 24.48333333",[372] 447-1700,www.transcom.ee/parnusadam_eng.html
 167,Estonia,Tallinn,EE TLL,59° 27' N / 24° 46' E,"59.45, 24.76666667",[372] 631-8555,www.portoftallinn.com
-168,Faroe Islands,Klaksvik,FO KVI,62° 14' N / 6° 35' W,"62.23333333, 6.58333333",[298] 450-581,www.klhavn.fo
-169,Faroe Islands,Torshavn,FO THO,62° 0' N / 6° 46' W,"62.0, 6.76666667",[298] 311-762,www.portoftorshavn.com
-170,Fiji,Labasa (Lambasa),FJ LBS,16° 26' S / 179° 14' E,"16.43333333, 179.23333333",[679] 331-2700,www.fijiports.com.fj
-171,Fiji,Lautoka,FJ LTK,17° 36' S / 177° 26' E,"17.6, 177.43333333",[679] 331-2700,www.fijiports.com.fj
-172,Fiji,Levuka,FJ LEV,17° 41' S / 178° 51' E,"17.68333333, 178.85",[679] 331-2700,www.fijiports.com.fj
-173,Fiji,Savu Savu,FJ SVU,16° 49' S / 179° 18' E,"16.81666667, 179.3",[679] 331-2700,www.fijiports.com.fj
-174,Fiji,Suva,FJ SUV,18° 8' S / 178° 26' E,"18.13333333, 178.43333333",[679] 331-2700,www.fijiports.com.fj
+168,Faroe Islands,Klaksvik,FO KVI,62° 14' N / 6° 35' W,"62.23333333, -5.41666667",[298] 450-581,www.klhavn.fo
+169,Faroe Islands,Torshavn,FO THO,62° 0' N / 6° 46' W,"62.0, -5.23333333",[298] 311-762,www.portoftorshavn.com
+170,Fiji,Labasa (Lambasa),FJ LBS,16° 26' S / 179° 14' E,"-15.56666667, 179.23333333",[679] 331-2700,www.fijiports.com.fj
+171,Fiji,Lautoka,FJ LTK,17° 36' S / 177° 26' E,"-16.4, 177.43333333",[679] 331-2700,www.fijiports.com.fj
+172,Fiji,Levuka,FJ LEV,17° 41' S / 178° 51' E,"-16.31666667, 178.85",[679] 331-2700,www.fijiports.com.fj
+173,Fiji,Savu Savu,FJ SVU,16° 49' S / 179° 18' E,"-15.18333333, 179.3",[679] 331-2700,www.fijiports.com.fj
+174,Fiji,Suva,FJ SUV,18° 8' S / 178° 26' E,"-17.86666667, 178.43333333",[679] 331-2700,www.fijiports.com.fj
 175,Finland,Hamina,FI HMN,60° 34' N / 27° 11' E,"60.56666667, 27.18333333",[358] (5) 225-5400,www.portofhamina.fi
 176,Finland,Helsinki,FI HEL,60° 10' N / 24° 57' E,"60.16666667, 24.95",[358] (9) 310-1621,www.portofhelsinki.fi
 177,Finland,Kokkola,FI KOK,63° 50' N / 23° 8' E,"63.83333333, 23.13333333",[358] (6) 824-2400,www.port.of.kokkola.fi
@@ -187,24 +187,24 @@
 185,Finland,Vaasa,FI VAA,60° 06' N / 21° 36' E,"60.1, 21.6",[358] (6) 325-1111,www.vaasa.fi/port/
 186,France,Bordeaux,FR BOD,44° 50' N / 0° 34' W,"44.83333333, 0.56666667",[33] 556-905-905,www.bordeaux-port.fr
 187,France,Boulogne Sur Mer,FR BOL,50° 45' N / 1° 34' E,"50.75, 1.56666667",[33] 321-996-200,www.boulogne-sur-mer.cci.fr
-188,France,Cherbourg,FR CER,49° 38' N / 1° 38' W,"49.63333333, 1.63333333",[33] 233-236-450,www.port-cherbourg.com
+188,France,Cherbourg,FR CER,49° 38' N / 1° 38' W,"49.63333333, -0.36666667",[33] 233-236-450,www.port-cherbourg.com
 189,France,Dunkerque,FR DKK,51° 3' N / 2° 22' E,"51.05, 2.36666667",[33] 328-287-878,www.portdedunkerque.fr
-190,France,La Rochelle-Pallice,FR LPE,46° 9' N / 1° 10' W,"46.15, 1.16666667",[33] 546-005-360,www.larochelle.port.fr
+190,France,La Rochelle-Pallice,FR LPE,46° 9' N / 1° 10' W,"46.15, -0.83333333",[33] 546-005-360,www.larochelle.port.fr
 191,France,Le Havre,FR LEH,49° 30' N / 0° 7' W,"49.5, 0.11666667",[33] 232-747-400,www.havre-port.net
 192,France,Marseille,FR MRS,43° 19' N / 5° 22' E,"43.31666667, 5.36666667",[33] 491-394-000,www.marseille-port.fr
-193,France,Nantes-St. Nazaire,FR NTE,47° 14' N / 1° 34' W,"47.23333333, 1.56666667",[33] 240-442-020,www.nantes.port.fr
+193,France,Nantes-St. Nazaire,FR NTE,47° 14' N / 1° 34' W,"47.23333333, -0.43333333",[33] 240-442-020,www.nantes.port.fr
 194,France,Paris,FR PAR,48° 57' N / 2° 16' E,"48.95, 2.26666667",[33] 140-582-999,www.paris-ports.fr
 195,France,Rouen,FR URO,49° 28' N / 1° 4' E,"49.46666667, 1.06666667",[33] 235-525-400,www.rouen.port.fr
-196,France,St Malo,FR SML,48° 39' N / 2° 1' W,"48.65, 2.01666667",[33] 299-205-100,www.saint-malo.cci.fr
+196,France,St Malo,FR SML,48° 39' N / 2° 1' W,"48.65, -1.98333333",[33] 299-205-100,www.saint-malo.cci.fr
 197,France,Strasbourg,FR SXB,48° 34' N / 7° 42' E,"48.56666667, 7.7",[33] 338-235-657,www.strasbourg.port.fr
 198,France,Toulon,FR TLN,43° 7' N / 5° 55' E,"43.11666667, 5.91666667",[33] 494-032-760,www.var.equipement.gouv.fr
-199,French Guiana,Cayenne,GF CAY,4° 56' N / 52° 20' W,"4.93333333, 52.33333333",[594] 594-299-660,
-200,French Polynesia,Papeete,PF PPT,17° 33' S / 149° 34' W,"17.55, 149.56666667",[689] 474-800,www.portdepapeete.pf
+199,French Guiana,Cayenne,GF CAY,4° 56' N / 52° 20' W,"4.93333333, -51.66666667",[594] 594-299-660,
+200,French Polynesia,Papeete,PF PPT,17° 33' S / 149° 34' W,"-16.45, -148.43333333",[689] 474-800,www.portdepapeete.pf
 201,Gabon,Cap Lopez,GA CLZ,0° 38' S / 8° 42' E,"0.63333333, 8.7",[241] 552-190,
 202,Gabon,Libreville,GA LBV,0° 17' N / 9° 30' E,"0.28333333, 9.5",[241] 703-735,
 203,Gabon,Owendo,GA OWE,0° 17' N / 9° 30' E,"0.28333333, 9.5",[241] 701-798,
 204,Gabon,Port Gentil,GA POG,0° 43' S / 8° 48' E,"0.71666667, 8.8",[241] 552-190,www.otal.com/gabon/gabon.htm#luanda
-205,Gambia,Banjul,GM BJL,13° 27' N / 16° 34' W,"13.45, 16.56666667",[220] 422-7266,
+205,Gambia,Banjul,GM BJL,13° 27' N / 16° 34' W,"13.45, -15.43333333",[220] 422-7266,
 206,Georgia,Batumi,GE BUS,41° 39' N / 41° 38' E,"41.65, 41.63333333",[995] (222) 76-261,www.batumiport.com
 207,Georgia,Poti,GE PTI,42° 9' N / 41° 40' E,"42.15, 41.66666667",[995] (393) 20-660,www.potiseaport.com
 208,Georgia,Sukhumi,GE SUI,43° 1' N / 40° 58' E,"43.01666667, 40.96666667",[995] (8) 122-23-400,
@@ -221,9 +221,9 @@
 219,Germany,Mannheim,DE MHG,49° 32' N / 8° 30' E,"49.53333333, 8.5",[49] (621) 292-2166,
 220,Germany,Rostock,DE RSK,54° 9' N / 12° 8' E,"54.15, 12.13333333",[49] (381) 381-8710,www.rostock.de/hafenamt
 221,Germany,Wilhelmshavn,DE WVN,53° 32' N / 8° 8' E,"53.53333333, 8.13333333",[49] (4421) 4800-0,www.wilhelmshaven-port.de
-222,Ghana,Takoradi,GH TKD,4° 53' N / 1° 45' W,"4.88333333, 1.75",[233] (31) 32-254,www.ghanaports.gov.gh
+222,Ghana,Takoradi,GH TKD,4° 53' N / 1° 45' W,"4.88333333, -0.25",[233] (31) 32-254,www.ghanaports.gov.gh
 223,Ghana,Tema,GH TEM,5° 38' N / 0° 1' E,"5.63333333, 0.01666667",[233] (22) 202-758,www.ghanaports.gov.gh
-224,Gibraltar,Gibraltar,GI GIB,36° 8' N / 5° 21' W,"36.13333333, 5.35",[350] 200 46254,www.gibraltarport.com
+224,Gibraltar,Gibraltar,GI GIB,36° 8' N / 5° 21' W,"36.13333333, -4.65",[350] 200 46254,www.gibraltarport.com
 225,Greece,Eleusis,GR EEU,38° 2' N / 23° 33' E,"38.03333333, 23.55",[30] 210-554-3504,
 226,Greece,Iraklion (Heraklion),GR HER,35° 16' N / 25° 9' E,"35.26666667, 25.15",[30] 2810-338110,www.portheraklion.gr
 227,Greece,Kavala,GR KVA,40° 55' N / 24° 25' E,"40.91666667, 24.41666667",[30] 251-022-4967,
@@ -231,34 +231,34 @@
 229,Greece,Piraeus,GR PIR,37° 57' N / 23° 38' E,"37.95, 23.63333333",[30] 210-455-0000,www.olp.gr
 230,Greece,Thessaloniki,GR SKG,40° 38' N / 22° 56' E,"40.63333333, 22.93333333",[30] 231-059-3121,www.thpa.gr
 231,Greece,Volos,GR VOL,39° 22' N / 22° 57' E,"39.36666667, 22.95",[30] 24210 - 32545,www.port-volos.gr
-232,Greenland,Holsteinsborg (Sisimiut),GL JHS,66° 56' N / 53° 40' W,"66.93333333, 53.66666667",[299] 865-933,
-233,Greenland,Nanortalik,GL JNN,60° 8' N / 45° 14' W,"60.13333333, 45.23333333",[299] 613-433,
-234,Greenland,Narsarsuaq,GL UAK,61° 9' N / 45° 25' W,"61.15, 45.41666667",[299] 665-266,
-235,Greenland,Nuuk (Godthaab),GL GOH,64° 10' N / 51° 44' W,"64.16666667, 51.73333333",[299] 349-100,
-236,Guadeloupe,Gustavia,GP GUS,17° 54' N / 62° 51' W,"17.9, 62.85",[590] 276-697,
-237,Guadeloupe,Pointe-a-Pitre,GP PTP,16° 14' N / 61° 32' W,"16.23333333, 61.53333333",[590] 590-213-900,
+232,Greenland,Holsteinsborg (Sisimiut),GL JHS,66° 56' N / 53° 40' W,"66.93333333, -52.33333333",[299] 865-933,
+233,Greenland,Nanortalik,GL JNN,60° 8' N / 45° 14' W,"60.13333333, -44.76666667",[299] 613-433,
+234,Greenland,Narsarsuaq,GL UAK,61° 9' N / 45° 25' W,"61.15, -44.58333333",[299] 665-266,
+235,Greenland,Nuuk (Godthaab),GL GOH,64° 10' N / 51° 44' W,"64.16666667, -50.26666667",[299] 349-100,
+236,Guadeloupe,Gustavia,GP GUS,17° 54' N / 62° 51' W,"17.9, -61.15",[590] 276-697,
+237,Guadeloupe,Pointe-a-Pitre,GP PTP,16° 14' N / 61° 32' W,"16.23333333, -60.46666667",[590] 590-213-900,
 238,Guam,Apra (Agana),GU APR,13° 27' N / 144° 37' E,"13.45, 144.61666667",[1] (671) 477-5931,www.portguam.com
-239,Guatemala,Champerico,GT CHR,14° 18' N / 91° 55' W,"14.3, 91.91666667",[502] 7773-7255,
-240,Guatemala,Puerto Barrios,GT PBR,15° 43' N / 88° 37' W,"15.71666667, 88.61666667",[502] 920-1500,www.worldportsource.com/ports/GTM_Puerto_Barrios_1612.php
-241,Guatemala,Santo Tomas DeCastilla,GT STC,15° 42' N / 88° 37' W,"15.7, 88.61666667",[502] 2419-4800,www.cpn.gob.gt
-242,Guinea,Conakry,GN CKY,9° 31' N / 13° 43' W,"9.51666667, 13.71666667",[224] 6340-7428,www.otal.com/guinea/
-243,Guinea,Port Kamsar,GN KMR,10° 39' N / 14° 37' W,"10.65, 14.61666667",[224] 163-2177,
-244,Guinea-Bissau,Bissau,GW BXO,11° 51' N / 15° 35' W,"11.85, 15.58333333",,
-245,Guyana,Georgetown,GY GEO,6° 49' N / 58° 10' W,"6.81666667, 58.16666667",[592] 225-7330,
-246,Guyana,New Amsterdam,GY QSK,6° 14' N / 57° 31' W,"6.23333333, 57.51666667",[592] 226-7842,
-247,Haiti,Port Au Prince,HT PAP,18° 33' N / 72° 21' W,"18.55, 72.35",[509] 510-7469,
-248,Honduras,La Ceiba,HN LCE,15° 46' N / 86° 50' W,"15.76666667, 86.83333333",[504] 441-9445,www.enp.hn
-249,Honduras,Puerto Castilla,HN PCA,16° 1' N / 86° 3' W,"16.01666667, 86.05",[504] 434-4902,www.enp.hn
-250,Honduras,Puerto Cortes,HN PCR,15° 51' N / 87° 56' W,"15.85, 87.93333333",[504] 665-0192,www.enp.hn
-251,Honduras,San Lorenzo,HN SLO,13° 24' N / 87° 25' W,"13.4, 87.41666667",[504] 881-2145,
-252,Honduras,Tela,HN TEA,15° 47' N / 87° 27' W,"15.78333333, 87.45",[504] 448-2187,
+239,Guatemala,Champerico,GT CHR,14° 18' N / 91° 55' W,"14.3, -90.08333333",[502] 7773-7255,
+240,Guatemala,Puerto Barrios,GT PBR,15° 43' N / 88° 37' W,"15.71666667, -87.38333333",[502] 920-1500,www.worldportsource.com/ports/GTM_Puerto_Barrios_1612.php
+241,Guatemala,Santo Tomas DeCastilla,GT STC,15° 42' N / 88° 37' W,"15.7, -87.38333333",[502] 2419-4800,www.cpn.gob.gt
+242,Guinea,Conakry,GN CKY,9° 31' N / 13° 43' W,"9.51666667, -12.28333333",[224] 6340-7428,www.otal.com/guinea/
+243,Guinea,Port Kamsar,GN KMR,10° 39' N / 14° 37' W,"10.65, -13.38333333",[224] 163-2177,
+244,Guinea-Bissau,Bissau,GW BXO,11° 51' N / 15° 35' W,"11.85, -14.41666667",,
+245,Guyana,Georgetown,GY GEO,6° 49' N / 58° 10' W,"6.81666667, -57.83333333",[592] 225-7330,
+246,Guyana,New Amsterdam,GY QSK,6° 14' N / 57° 31' W,"6.23333333, -56.48333333",[592] 226-7842,
+247,Haiti,Port Au Prince,HT PAP,18° 33' N / 72° 21' W,"18.55, -71.65",[509] 510-7469,
+248,Honduras,La Ceiba,HN LCE,15° 46' N / 86° 50' W,"15.76666667, -85.16666667",[504] 441-9445,www.enp.hn
+249,Honduras,Puerto Castilla,HN PCA,16° 1' N / 86° 3' W,"16.01666667, -85.95",[504] 434-4902,www.enp.hn
+250,Honduras,Puerto Cortes,HN PCR,15° 51' N / 87° 56' W,"15.85, -86.06666667",[504] 665-0192,www.enp.hn
+251,Honduras,San Lorenzo,HN SLO,13° 24' N / 87° 25' W,"13.4, -86.58333333",[504] 881-2145,
+252,Honduras,Tela,HN TEA,15° 47' N / 87° 27' W,"15.78333333, -86.55",[504] 448-2187,
 253,Hong Kong,Hong Kong,HK HKG,22° 18' N / 114° 10' E,"22.3, 114.16666667",[852] 2542 3711,www.info.gov.hk/mardep
-254,Iceland,Akureyri,IS AKU,65° 41' N / 18° 3' W,"65.68333333, 18.05",[354] 460-4200,www.port.is
-255,Iceland,Hafnarfjordur (Straumsvik),IS HAF,64° 4' N / 21° 58' W,"64.06666667, 21.96666667",[354] 414-2300,www.portofhafnarfjordur.is
-256,Iceland,Isafjordur,IS ISA,66° 5' N / 23° 6' W,"66.08333333, 23.1",[354] 450-8000,www.isafjordur.is
-257,Iceland,Keflavik,IS KEV,64° 0' N / 22° 33' W,"64.0, 22.55",[354] 421-4575,www.randburg.com/is/portkefl
-258,Iceland,Reykjavik,IS REY,64° 8' N / 21° 56' W,"64.13333333, 21.93333333",[354] 525-8900,www.faxaports.is
-259,Iceland,Vestmannaeyjar,IS VES,63° 26' N / 20° 16' W,"63.43333333, 20.26666667",[354] 481-1315,
+254,Iceland,Akureyri,IS AKU,65° 41' N / 18° 3' W,"65.68333333, -17.95",[354] 460-4200,www.port.is
+255,Iceland,Hafnarfjordur (Straumsvik),IS HAF,64° 4' N / 21° 58' W,"64.06666667, -20.03333333",[354] 414-2300,www.portofhafnarfjordur.is
+256,Iceland,Isafjordur,IS ISA,66° 5' N / 23° 6' W,"66.08333333, -22.9",[354] 450-8000,www.isafjordur.is
+257,Iceland,Keflavik,IS KEV,64° 0' N / 22° 33' W,"64.0, -21.45",[354] 421-4575,www.randburg.com/is/portkefl
+258,Iceland,Reykjavik,IS REY,64° 8' N / 21° 56' W,"64.13333333, -20.06666667",[354] 525-8900,www.faxaports.is
+259,Iceland,Vestmannaeyjar,IS VES,63° 26' N / 20° 16' W,"63.43333333, -19.73333333",[354] 481-1315,
 260,India,Bombay (Mumbai),IN BOM,18° 59' N / 72° 49' E,"18.98333333, 72.81666667",[354] 2261-4345,http://mumbaiport.gov.in
 261,India,Calcutta (Kolkata),IN CCU,22° 32' N / 88° 22' E,"22.53333333, 88.36666667",[91] (33) 2230-3451,www.kolkataporttrust.gov.in
 262,India,Chennai (Madras),IN MAA,13° 6' N / 80° 16' E,"13.1, 80.26666667",[91] (44) 2536-2201,www.chennaiport.gov.in
@@ -267,14 +267,14 @@
 265,India,Nhava Sheva (Jawaharlal Nehru),IN NSA,18° 57' N / 72° 58' E,"18.95, 72.96666667",[91] (22) 2724-2290,www.jnport.com
 266,India,Tuticorin,IN TUT,8° 45' N / 78° 10' E,"8.75, 78.16666667",[91] (461) 235-2290,www.tuticorinport.gov.in
 267,India,Vishakhapatnam,IN VTZ,17° 41' N / 83° 18' E,"17.68333333, 83.3",[91] (891) 256-4841,www.vizagport.com
-268,Indonesia,"Cilacap, Java (Tanjung Intan)",ID CXP,8° 44' S / 109° 0' E,"8.73333333, 109.0",[62] (282) 21-710,http://ports.com/indonesia/port-of-cilacap
-269,Indonesia,"Cirebon, Java",ID CBN,6° 41' S / 108° 33' E,"6.68333333, 108.55",[62] (234) 535-333,www.priokport.co.id
-270,Indonesia,"Jakarta, Java (Tanjung Priok)",ID TPP,6° 6' S / 106° 52' E,"6.1, 106.86666667",[62] (21) 436-7505,www.priokport.co.id
-271,Indonesia,"Kupang, Timor",ID KOE,10° 10' S / 123° 34' E,"10.16666667, 123.56666667",[62] (391) 21790,
-272,Indonesia,"Palembang, Sumatra",ID PLM,2° 59' S / 104° 45' E,"2.98333333, 104.75",[62] (711) 710-611,http://ports.com/indonesia/port-of-palembang
-273,Indonesia,"Semarang, Java (Tanjung Emas)",ID SRG,6° 53' S / 110° 24' E,"6.88333333, 110.4",[62] (24) 545-341,
-274,Indonesia,"Surabaya, Java (Tanjung Perak)",ID SUB,7° 13' S / 112° 44' E,"7.21666667, 112.73333333",[62] (31) 328-3265,www.tps.co.id
-275,Indonesia,"Ujung Pandang, Sulawesi (Makassar)",ID UPG,5° 8' S / 119° 24' E,"5.13333333, 119.4",[62] (411) 6999,
+268,Indonesia,"Cilacap, Java (Tanjung Intan)",ID CXP,8° 44' S / 109° 0' E,"-7.26666667, 109.0",[62] (282) 21-710,http://ports.com/indonesia/port-of-cilacap
+269,Indonesia,"Cirebon, Java",ID CBN,6° 41' S / 108° 33' E,"-5.31666667, 108.55",[62] (234) 535-333,www.priokport.co.id
+270,Indonesia,"Jakarta, Java (Tanjung Priok)",ID TPP,6° 6' S / 106° 52' E,"-5.9, 106.86666667",[62] (21) 436-7505,www.priokport.co.id
+271,Indonesia,"Kupang, Timor",ID KOE,10° 10' S / 123° 34' E,"-9.83333333, 123.56666667",[62] (391) 21790,
+272,Indonesia,"Palembang, Sumatra",ID PLM,2° 59' S / 104° 45' E,"-1.01666667, 104.75",[62] (711) 710-611,http://ports.com/indonesia/port-of-palembang
+273,Indonesia,"Semarang, Java (Tanjung Emas)",ID SRG,6° 53' S / 110° 24' E,"-5.11666667, 110.4",[62] (24) 545-341,
+274,Indonesia,"Surabaya, Java (Tanjung Perak)",ID SUB,7° 13' S / 112° 44' E,"-6.78333333, 112.73333333",[62] (31) 328-3265,www.tps.co.id
+275,Indonesia,"Ujung Pandang, Sulawesi (Makassar)",ID UPG,5° 8' S / 119° 24' E,"-4.86666667, 119.4",[62] (411) 6999,
 276,Iran,Abadan,IR ABD,30° 20' N / 48° 20' E,"30.33333333, 48.33333333",[98] (631) 29223,
 277,Iran,Bandar Abbas,IR BND,27° 11' N / 56° 17' E,"27.18333333, 56.28333333",[98] (218) 809-290,http://bikport.pmo.ir
 278,Iran,Bandar Anzali,IR BAZ,37° 28' N / 49° 28' E,"37.46666667, 49.46666667",[98] (181) 322-4505,
@@ -287,14 +287,14 @@
 285,Iraq,Basra,IQ BSR,30° 33' N / 47° 47' E,"30.55, 47.78333333",,http://scp.gov.iq/english
 286,Iraq,Khor al Zubair,IQ KAZ,30° 11' N / 47° 54' E,"30.18333333, 47.9",,http://scp.gov.iq/english
 287,Iraq,Umm Qasr,IQ UQR,24° 54' N / 51° 35' E,"24.9, 51.58333333",,http://scp.gov.iq/english
-288,Ireland,Arklow,IE ARK,52° 48' N / 6° 9' W,"52.8, 6.15",[353] (40) 232-466,
-289,Ireland,Cork,IE ORK,51° 50' N / 8° 17' W,"51.83333333, 8.28333333",[353] (21) 427-3125,www.portofcork.ie
-290,Ireland,Drogheda,IE DRO,53° 43' N / 6° 18' W,"53.71666667, 6.3",[353] (41) 983-8378,www.droghedaport.ie
-291,Ireland,Dublin,IE DUB,53° 21' N / 6° 16' W,"53.35, 6.26666667",[353] (1) 887-6000,www.dublinport.ie
-292,Ireland,Foynes (Shannon Foynes Port),IE FOV,52° 36' N / 9° 6' W,"52.6, 9.1",[353] (69) 73-100,www.sfpc.ie
-293,Ireland,Galway,IE GWY,53° 16' N / 9° 3' W,"53.26666667, 9.05",[353] (91) 561-874,www.galwayharbour.com
-294,Ireland,New Ross,IE NRS,52° 23' N / 6° 56' W,"52.38333333, 6.93333333",[353] (51) 421-303,
-295,Ireland,Waterford,IE WAT,52° 15' N / 7° 7' W,"52.25, 7.11666667",[353] (51) 874-908,
+288,Ireland,Arklow,IE ARK,52° 48' N / 6° 9' W,"52.8, -5.85",[353] (40) 232-466,
+289,Ireland,Cork,IE ORK,51° 50' N / 8° 17' W,"51.83333333, -7.71666667",[353] (21) 427-3125,www.portofcork.ie
+290,Ireland,Drogheda,IE DRO,53° 43' N / 6° 18' W,"53.71666667, -5.7",[353] (41) 983-8378,www.droghedaport.ie
+291,Ireland,Dublin,IE DUB,53° 21' N / 6° 16' W,"53.35, -5.73333333",[353] (1) 887-6000,www.dublinport.ie
+292,Ireland,Foynes (Shannon Foynes Port),IE FOV,52° 36' N / 9° 6' W,"52.6, -8.9",[353] (69) 73-100,www.sfpc.ie
+293,Ireland,Galway,IE GWY,53° 16' N / 9° 3' W,"53.26666667, -8.95",[353] (91) 561-874,www.galwayharbour.com
+294,Ireland,New Ross,IE NRS,52° 23' N / 6° 56' W,"52.38333333, -5.06666667",[353] (51) 421-303,
+295,Ireland,Waterford,IE WAT,52° 15' N / 7° 7' W,"52.25, -6.88333333",[353] (51) 874-908,
 296,Israel,Ashdod,IL ASH,31° 50' N / 34° 38' E,"31.83333333, 34.63333333",[972] 8851-7206,www.ashdodport.org.il
 297,Israel,Ashkelon,IL AKL,31° 38' N / 34° 32' E,"31.63333333, 34.53333333",[972] (3) 744-1112,www.unishipping.co.il/ashkelon.html
 298,Israel,Eilat,IL ETH,29° 32' N / 34° 57' E,"29.53333333, 34.95",,http://www.eilatport.co.il/
@@ -319,12 +319,12 @@
 317,Italy,Taranto,IT TAR,40° 29' N / 17° 13' E,"40.48333333, 17.21666667",[39] 099-471-1611,www.port.taranto.it
 318,Italy,Trieste,IT TRS,45° 39' N / 13° 45' E,"45.65, 13.75",[39] 040-6731,www.porto.trieste.it
 319,Italy,Venice,IT VCE,45° 26' N / 12° 20' E,"45.43333333, 12.33333333",[39] 041-533-4220,www.port.venice.it
-320,Jamaica,Kingston,JM KIN,17° 59' N / 76° 50' W,"17.98333333, 76.83333333",[1] (876) 922-0290,www.portjam.com
-321,Jamaica,Montego Bay,JM MBJ,18° 30' N / 77° 56' W,"18.5, 77.93333333",[1] (876) 979-8815,www.portjam.com
+320,Jamaica,Kingston,JM KIN,17° 59' N / 76° 50' W,"17.98333333, -75.16666667",[1] (876) 922-0290,www.portjam.com
+321,Jamaica,Montego Bay,JM MBJ,18° 30' N / 77° 56' W,"18.5, -76.06666667",[1] (876) 979-8815,www.portjam.com
 322,Jamaica,Ocho Rios,JM OCJ,18° 25' N / 18° 25' N,"18.41666667, 18.41666667",[1] (876) 974-5681,www.portjam.com
-323,Jamaica,Port Antonio,JM POT,18° 12' N / 76° 27' W,"18.2, 76.45",[1] (876) 715-6044,www.portjam.com
-324,Jamaica,Port Esquivel,JM PEV,17° 53' N / 77° 8' W,"17.88333333, 77.13333333",[1] (876) 525-2249,www.portjam.com
-325,Jamaica,Rocky Point,JM ROP,17° 38' N / 77° 14' W,"17.63333333, 77.23333333",[1] (876) 986-2561,www.portjam.com
+323,Jamaica,Port Antonio,JM POT,18° 12' N / 76° 27' W,"18.2, -75.55",[1] (876) 715-6044,www.portjam.com
+324,Jamaica,Port Esquivel,JM PEV,17° 53' N / 77° 8' W,"17.88333333, -76.86666667",[1] (876) 525-2249,www.portjam.com
+325,Jamaica,Rocky Point,JM ROP,17° 38' N / 77° 14' W,"17.63333333, -76.76666667",[1] (876) 986-2561,www.portjam.com
 326,Japan,Akita,JP AXT,39° 45' N / 140° 3' E,"39.75, 140.05",[81] (18) 866-2164,www.city.akita.akita.jp/city/in/hb/port
 327,Japan,Amagasaki,JP AMA,34° 42' N / 135° 24' E,"34.7, 135.4",[81] (78) 341-7711,
 328,Japan,Chiba,JP CHB,35° 36' N / 140° 7' E,"35.6, 140.11666667",[81] (43) 246-6201,www.pref.chiba.jp/business/kowan/chibaport-e.html
@@ -348,8 +348,8 @@
 346,Japan,"Tomakomai, Hokkaido",JP TMK,42° 35' N / 141° 35' E,"42.58333333, 141.58333333",[81] (14) 434-5559,www.jptmk.com
 347,Japan,Yokohama,JP YOK,35° 27' N / 139° 39' E,"35.45, 139.65",[81] (45) 671-7188,www.city.yokohama.jp/port/index-e.html
 348,Jordan,Aqaba (El Akaba),JO AQJ,29° 31' N / 35° 1' E,"29.51666667, 35.01666667",[962] (3) 201-4031,www.aqabaports.gov.jo
-349,Kenya,Lamu,KE LAU,2° 17' S / 40° 54' E,"2.28333333, 40.9",[254] (41) 211-2999,www.kpa.co.ke
-350,Kenya,Mombasa,KE MBA,4° 4' S / 39° 40' E,"4.06666667, 39.66666667",[254] (41) 211-2999,www.kpa.co.ke
+349,Kenya,Lamu,KE LAU,2° 17' S / 40° 54' E,"-1.71666667, 40.9",[254] (41) 211-2999,www.kpa.co.ke
+350,Kenya,Mombasa,KE MBA,4° 4' S / 39° 40' E,"-3.93333333, 39.66666667",[254] (41) 211-2999,www.kpa.co.ke
 351,Kiribati,Betio (Tarawa),KI TRW,1° 25' N / 172° 54' E,"1.41666667, 172.9",[686] 26-164,
 352,Korea (North),Chongjin,KP CHO,41° 46' N / 129° 49' E,"41.76666667, 129.81666667",,
 353,Korea (North),Haeju,KP HAE,38° 0' N / 125° 42' E,"38.0, 125.7",,
@@ -375,9 +375,9 @@
 373,Lebanon,Selaata,LB SEL,34° 17' N / 35° 40' E,"34.28333333, 35.66666667",[961] (9) 212-883,
 374,Lebanon,Sidon,LB SDN,33° 30' N / 35° 21' E,"33.5, 35.35",[961] (1) 446-189,http://ports.com/lebanon/port-of-sidonsaida
 375,Lebanon,Tripoli,LB KYE,34° 28' N / 35° 49' E,"34.46666667, 35.81666667",[961] (1) 427-985,
-376,Liberia,Buchanan,LR UCN,5° 54' N / 10° 4' W,"5.9, 10.06666667",,
-377,Liberia,Greenville,LR GRE,4° 59' N / 9° 3' W,"4.98333333, 9.05",,
-378,Liberia,Monrovia,LR MLW,6° 20' N / 10° 50' W,"6.33333333, 10.83333333",[231] (2) 760-6006,www.nationalportauthorityliberia.org
+376,Liberia,Buchanan,LR UCN,5° 54' N / 10° 4' W,"5.9, -9.93333333",,
+377,Liberia,Greenville,LR GRE,4° 59' N / 9° 3' W,"4.98333333, -8.95",,
+378,Liberia,Monrovia,LR MLW,6° 20' N / 10° 50' W,"6.33333333, -9.16666667",[231] (2) 760-6006,www.nationalportauthorityliberia.org
 379,Libya,Bingazi (Benghazi),LY BEN,32° 6' N / 20° 3' E,"32.1, 20.05",[218] (61) 909-2017,www.lpclibya.com/en/seaports.aspx
 380,Libya,Derna,LY DNF,32° 46' N / 22° 39' E,"32.76666667, 22.65",[218] (81) 634-817,www.lpclibya.com/en/seaports.aspx
 381,Libya,Marsa El Brega,LY LMQ,30° 25' N / 19° 34' E,"30.41666667, 19.56666667",[218] (21) 460-1487,www.lpclibya.com/en/seaports.aspx
@@ -388,10 +388,10 @@
 386,Libya,Zuara,LY ZUA,32° 55' N / 12° 7' E,"32.91666667, 12.11666667",[218] (25) 25-305,www.lpclibya.com/en/seaports.aspx
 387,Lithuania,Klaipeda (includes sixsubports:),LT KLJ,55° 43' N / 21° 7' E,"55.71666667, 21.11666667",[370] 464-99-799,www.portofklaipeda.lt
 388,Macau,"Macau (Macao, Aomen)",MOMFM,22° 12' N /113° 33' E,"22.2, 33",[853] 559922,
-389,Madagascar,Antsiranana (Diego Suarez),MG DIE,12° 13' S / 49° 19' E,"12.21666667, 49.31666667",[261] 32 070 7697,
-390,Madagascar,Majunga (Mahajanga),MG MJN,15° 43' S / 46° 20' E,"15.71666667, 46.33333333",[261] 4 22148,
-391,Madagascar,Toamasina (Tamatave),MG TOA,18° 8' S / 49° 22' E,"18.13333333, 49.36666667",[261] 5 32155,
-392,Madagascar,Tulear (Toliara),MG TLE,23° 21' S / 43° 40' E,"23.35, 43.66666667",,
+389,Madagascar,Antsiranana (Diego Suarez),MG DIE,12° 13' S / 49° 19' E,"-11.78333333, 49.31666667",[261] 32 070 7697,
+390,Madagascar,Majunga (Mahajanga),MG MJN,15° 43' S / 46° 20' E,"-14.28333333, 46.33333333",[261] 4 22148,
+391,Madagascar,Toamasina (Tamatave),MG TOA,18° 8' S / 49° 22' E,"-17.86666667, 49.36666667",[261] 5 32155,
+392,Madagascar,Tulear (Toliara),MG TLE,23° 21' S / 43° 40' E,"-22.65, 43.66666667",,
 393,Malaysia,"Bintulu, Sarawak",MY BTU,3° 16' N / 112° 59' E,"3.26666667, 112.98333333",[60] (86) 291-001,www.bpsb.com.my
 394,Malaysia,"Kota Kinabalu, Sabah",MY BKI,5° 59' N / 116° 0' E,"5.98333333, 116.0",,
 395,Malaysia,Kuantan (Tanjong Gelang),MY KUA,3° 58' N / 103° 26' E,"3.96666667, 103.43333333",[60] (9) 585-8000,www.lpktn.gov.my/
@@ -410,46 +410,46 @@
 408,Malaysia,"Tanjung Pelepas, Johor",MY TPP,1° 21' N / 103° 32' E,"1.35, 103.53333333",[60] (7) 504-2222,www.ptp.com.my
 409,Malaysia,"Tawau, Sabah",MY TWU,4° 14' N / 117° 52' E,"4.23333333, 117.86666667",[60] (89) 773-700,www.etawau.com/HTML/Government/PortAuthority.htm
 410,Malta,Valletta,MT MLA,35° 54' N / 014° 31',"35.9, 14",[356] 2122-2203,http://transport.gov.mt
-411,Martinique,Fort de France,MQ FDF,14° 36' N / 61° 4' W,"14.6, 61.06666667",[596] 728-371,
-412,Mauritania,Nouadhibou,MR NDB,20° 49' N / 17° 3' W,"20.81666667, 17.05",[222] 574-5134,
-413,Mauritania,Nouakchott,MR NKC,18° 2' N / 16° 2' W,"18.03333333, 16.03333333",[222] 251-453,www.otal.com/mauritania/index.htm
-414,Mauritius,Port Louis,MU PLU,20° 9' S / 57° 30' E,"20.15, 57.5",[230] 206-5400,www.mauport.com
-415,Mexico,Acapulco,MX ACA,16° 51' N / 99° 56' W,"16.85, 99.93333333",[52] (55) 5629-8866,www.tmm.com.mx/esp/english/services/port/api
-416,Mexico,Coatzacoalcos,MX COA,18° 8' N / 94° 25' W,"18.13333333, 94.41666667",[52] (921) 211-0270,www.apicoatza.com
+411,Martinique,Fort de France,MQ FDF,14° 36' N / 61° 4' W,"14.6, -60.93333333",[596] 728-371,
+412,Mauritania,Nouadhibou,MR NDB,20° 49' N / 17° 3' W,"20.81666667, -16.95",[222] 574-5134,
+413,Mauritania,Nouakchott,MR NKC,18° 2' N / 16° 2' W,"18.03333333, -15.96666667",[222] 251-453,www.otal.com/mauritania/index.htm
+414,Mauritius,Port Louis,MU PLU,20° 9' S / 57° 30' E,"-19.85, 57.5",[230] 206-5400,www.mauport.com
+415,Mexico,Acapulco,MX ACA,16° 51' N / 99° 56' W,"16.85, -98.06666667",[52] (55) 5629-8866,www.tmm.com.mx/esp/english/services/port/api
+416,Mexico,Coatzacoalcos,MX COA,18° 8' N / 94° 25' W,"18.13333333, -93.58333333",[52] (921) 211-0270,www.apicoatza.com
 417,Mexico,Guaymas,MX GYM,27° 55' N / 110° 53'W,"27.91666667, 110",[52] (622) 222-2250,www.puertodeguaymas.com
-418,Mexico,La Paz,MX LAP,24° 10' N / 110° 19' W,"24.16666667, 110.31666667",[52] (612) 122-7777,
-419,Mexico,Lazaro Cardenas,MX LZC,17° 53' N / 102° 10' W,"17.88333333, 102.16666667",[52] (753) 533 07 00,www.puertolazarocardenas.com.mx
-420,Mexico,Manzanillo,MX ZLO,19° 3' N / 104° 20' W,"19.05, 104.33333333",[52] (314) 331-1400,www.puertomanzanillo.com.mx
-421,Mexico,Mazatlan,MX MZT,23° 11' N / 106° 26' W,"23.18333333, 106.43333333",[52] (669) 982-3019,www.apimazatlan.com.mx
-422,Mexico,Progreso,MX PGO,21° 17' N / 89° 39' W,"21.28333333, 89.65",[52] (969) 934-3250,www.puertosyucatan.com
-423,Mexico,Salina Cruz,MX SCX,16° 10' N / 95° 12' W,"16.16666667, 95.2",[52] (971) 717-3070,www.apisal.com.mx
-424,Mexico,Tampico,MX TAM,22° 16' N / 97° 47' W,"22.26666667, 97.78333333",[52] (833) 241-1400,www.puertodetampico.com.mx
-425,Mexico,Topolobampo,MX TPB,25° 36' N / 109° 3' W,"25.6, 109.05",[52] (668) 862-0494,http://ports.com/mexico/port-of-topolobampo
-426,Mexico,Tuxpan,MX TUX,20° 57' N / 97° 24' W,"20.95, 97.4",[52] (783) 102-3030,http://ports.com/mexico/port-of-tuxpan
-427,Mexico,Veracruz,MX VER,19° 12' N / 96° 8' W,"19.2, 96.13333333",[52] (229) 932-1319,http://puertodeveracruz.com.mx
+418,Mexico,La Paz,MX LAP,24° 10' N / 110° 19' W,"24.16666667, -109.68333333",[52] (612) 122-7777,
+419,Mexico,Lazaro Cardenas,MX LZC,17° 53' N / 102° 10' W,"17.88333333, -101.83333333",[52] (753) 533 07 00,www.puertolazarocardenas.com.mx
+420,Mexico,Manzanillo,MX ZLO,19° 3' N / 104° 20' W,"19.05, -103.66666667",[52] (314) 331-1400,www.puertomanzanillo.com.mx
+421,Mexico,Mazatlan,MX MZT,23° 11' N / 106° 26' W,"23.18333333, -105.56666667",[52] (669) 982-3019,www.apimazatlan.com.mx
+422,Mexico,Progreso,MX PGO,21° 17' N / 89° 39' W,"21.28333333, -88.35",[52] (969) 934-3250,www.puertosyucatan.com
+423,Mexico,Salina Cruz,MX SCX,16° 10' N / 95° 12' W,"16.16666667, -94.8",[52] (971) 717-3070,www.apisal.com.mx
+424,Mexico,Tampico,MX TAM,22° 16' N / 97° 47' W,"22.26666667, -96.21666667",[52] (833) 241-1400,www.puertodetampico.com.mx
+425,Mexico,Topolobampo,MX TPB,25° 36' N / 109° 3' W,"25.6, -108.95",[52] (668) 862-0494,http://ports.com/mexico/port-of-topolobampo
+426,Mexico,Tuxpan,MX TUX,20° 57' N / 97° 24' W,"20.95, -96.6",[52] (783) 102-3030,http://ports.com/mexico/port-of-tuxpan
+427,Mexico,Veracruz,MX VER,19° 12' N / 96° 8' W,"19.2, -95.86666667",[52] (229) 932-1319,http://puertodeveracruz.com.mx
 428,Micronesia,Pohnpei (Ex Ponape),FM PNI,6° 55' N / 158° 10' E,"6.91666667, 158.16666667",[691] 320-2793,
 429,Monaco,Monaco,MC MON,43° 44' N / 7° 27' E,"43.73333333, 7.45",[377] (97) 77 30 20,www.ports-monaco.com/lang-en/le-port-hercule/11-le-port-hercule-en-
 430,Montenegro,Bar,CS BAR,42° 5' N / 19° 3' E,"42.08333333, 19.05",,www.lukabar.me/eng/Port_of_Bar.htm
 431,Montenegro,Kotor,CS KOT,42° 27' N / 18° 36' E,"42.45, 18.6",[381] (82) 325-573,
-432,Montserrat,Plymouth,MS PLY,16° 42' N / 62° 13' W,"16.7, 62.21666667",[664] 491-2791,
-433,Morocco,Agadir,MA AGA,30° 26' N / 9° 38' W,"30.43333333, 9.63333333",[212] 4 884-2934,www.mtpnet.gov.ma/infrastructure/patrimoine/port/p_AGADIR.htm
-434,Morocco,Casablanca,MA CAS,33° 36' N / 7° 37' W,"33.6, 7.61666667",[212] 2 223-2324,www.mtpnet.gov.ma/infrastructure/patrimoine/port/p_CASABLANCA.htm
+432,Montserrat,Plymouth,MS PLY,16° 42' N / 62° 13' W,"16.7, -61.78333333",[664] 491-2791,
+433,Morocco,Agadir,MA AGA,30° 26' N / 9° 38' W,"30.43333333, -8.36666667",[212] 4 884-2934,www.mtpnet.gov.ma/infrastructure/patrimoine/port/p_AGADIR.htm
+434,Morocco,Casablanca,MA CAS,33° 36' N / 7° 37' W,"33.6, -6.38333333",[212] 2 223-2324,www.mtpnet.gov.ma/infrastructure/patrimoine/port/p_CASABLANCA.htm
 435,Morocco,El Jadida,MA ELJ,33° 16' N / 33° 16' N,"33.26666667, 33.26666667",[212] 5 23 34 03 67,http://ma.kompass.com/profile_MA2214588_en/agence-nationale-des-ports-port-
-436,Morocco,Kenitra,MA NNA,34° 16' N / 6° 35' W,"34.26666667, 6.58333333",[212] 3 737-2949,www.mtpnet.gov.ma/infrastructure/patrimoine/port/p_KENITRA.htm
-437,Morocco,Mohammedia,MA MOH,33° 45' N / 7° 22' W,"33.75, 7.36666667",[212] 2 223-2324,www.mtpnet.gov.ma/infrastructure/patrimoine/port/p_MOHAMMEDIA.htm
-438,Morocco,Safi,MA SFI,32° 19' N / 9° 12' W,"32.31666667, 9.2",[212] 4 446-2256,www.mtpnet.gov.ma/infrastructure/patrimoine/port/p_SAFI.htm
-439,Morocco,Tangier,MA TNG,35° 47' N / 5° 48' W,"35.78333333, 5.8",[212] 3 993-6040,www.mtpnet.gov.ma/infrastructure/patrimoine/port/p_TANGER.htm
-440,Mozambique,Beira,MZ BEW,19° 46' S / 34° 50' E,"19.76666667, 34.83333333",[258] 2332-2734,http://ports.co.za/beira.php
-441,Mozambique,Inhambane,MZ INH,23° 52' S / 35° 23' E,"23.86666667, 35.38333333",[258] (21) 313-920,www.portmaputo.com
-442,Mozambique,Maputo,MZ MPM,25° 58' S / 32° 34' E,"25.96666667, 32.56666667",[258] (21) 313-920,www.portmaputo.com
-443,Mozambique,Nacala,MZ MNC,14° 32' S / 40° 40' E,"14.53333333, 40.66666667",[258] (26) 526-852,www.ports.co.za/nacala.php
-444,Mozambique,Pemba,MZ POL,12° 57' S / 40° 30' E,"12.95, 40.5",[258] (26) 212-927,
-445,Mozambique,Quelimane,MZ UEL,17° 53' S / 36° 53' E,"17.88333333, 36.88333333",[258] (4) 212-994,
+436,Morocco,Kenitra,MA NNA,34° 16' N / 6° 35' W,"34.26666667, -5.41666667",[212] 3 737-2949,www.mtpnet.gov.ma/infrastructure/patrimoine/port/p_KENITRA.htm
+437,Morocco,Mohammedia,MA MOH,33° 45' N / 7° 22' W,"33.75, -6.63333333",[212] 2 223-2324,www.mtpnet.gov.ma/infrastructure/patrimoine/port/p_MOHAMMEDIA.htm
+438,Morocco,Safi,MA SFI,32° 19' N / 9° 12' W,"32.31666667, -8.8",[212] 4 446-2256,www.mtpnet.gov.ma/infrastructure/patrimoine/port/p_SAFI.htm
+439,Morocco,Tangier,MA TNG,35° 47' N / 5° 48' W,"35.78333333, -4.2",[212] 3 993-6040,www.mtpnet.gov.ma/infrastructure/patrimoine/port/p_TANGER.htm
+440,Mozambique,Beira,MZ BEW,19° 46' S / 34° 50' E,"-18.23333333, 34.83333333",[258] 2332-2734,http://ports.co.za/beira.php
+441,Mozambique,Inhambane,MZ INH,23° 52' S / 35° 23' E,"-22.13333333, 35.38333333",[258] (21) 313-920,www.portmaputo.com
+442,Mozambique,Maputo,MZ MPM,25° 58' S / 32° 34' E,"-24.03333333, 32.56666667",[258] (21) 313-920,www.portmaputo.com
+443,Mozambique,Nacala,MZ MNC,14° 32' S / 40° 40' E,"-13.46666667, 40.66666667",[258] (26) 526-852,www.ports.co.za/nacala.php
+444,Mozambique,Pemba,MZ POL,12° 57' S / 40° 30' E,"-11.05, 40.5",[258] (26) 212-927,
+445,Mozambique,Quelimane,MZ UEL,17° 53' S / 36° 53' E,"-16.11666667, 36.88333333",[258] (4) 212-994,
 446,Myanmar,Bassein,MM BSX,16° 45' N / 94° 43' E,"16.75, 94.71666667",[95] (1) 295-134,
 447,Myanmar,Moulmein,MM MNU,16° 29' N / 97° 37' E,"16.48333333, 97.61666667",[95] (1) 283-122,
 448,Myanmar,Yangon,MM RGN,16° 47' N / 96° 15' E,"16.78333333, 96.25",[95] (1) 283-122,
-449,Namibia,Luderitz,NA LUD,26° 39' S / 15° 9' E,"26.65, 15.15",[264] (63) 200-2017,www.namport.com.na
-450,Namibia,Walvis Bay,NA WVB,22° 57' S / 14° 30' E,"22.95, 14.5",[264] (64) 208-2111,www.namport.com.na
+449,Namibia,Luderitz,NA LUD,26° 39' S / 15° 9' E,"-25.35, 15.15",[264] (63) 200-2017,www.namport.com.na
+450,Namibia,Walvis Bay,NA WVB,22° 57' S / 14° 30' E,"-21.05, 14.5",[264] (64) 208-2111,www.namport.com.na
 451,Nauru,Nauru Island,NR INU,0° 32' S / 166° 55' E,"0.53333333, 166.91666667",[674] 555-4191,
 452,Netherlands,Amsterdam,NL AMS,52° 22' N / 4° 54' E,"52.36666667, 4.9",[31] (20) 523-4500,www.portofamsterdam.nl
 453,Netherlands,Delfzijl,NL DZL,53° 20' N / 6° 56' E,"53.33333333, 6.93333333",[31] (59) 664-0400,www.groningen-seaports.com
@@ -459,21 +459,21 @@
 457,Netherlands,IJmuiden,NL IJM,52° 27' N / 4° 35' E,"52.45, 4.58333333",[31] (255) 54-7000,www.zeehaven.nl/jluk
 458,Netherlands,Rotterdam,NL RTM,51° 55' N / 4° 24' E,"51.91666667, 4.4",[31] (10) 252-1010,www.portofrotterdam.com
 459,Netherlands,Terneuzen,NL TNZ,51° 20' N / 3° 50' E,"51.33333333, 3.83333333",[31] (115) 64-7400,www.portofzeeland.com
-460,Netherlands Antilles,"Kralendijk, Bonaire",AN KRA,12° 9' N / 68° 17' W,"12.15, 68.28333333",[[599] (7) 178-151,
-461,Netherlands Antilles,Philipsburg,AN PHI,18° 5' N / 63° 10' W,"18.08333333, 63.16666667",[599] (5) 222-307,
-462,Netherlands Antilles,Willemstad,AN WIL,12° 6' N / 68° 56' W,"12.1, 68.93333333",[599] (9) 434-5999,www.curports.com
-463,New Caledonia,Noumea,NC NOU,22° 16' S / 166° 27' E,"22.26666667, 166.45",[687] 255-000,
-464,New Caledonia,Thio,NC THI,21° 37' S / 166° 15' E,"21.61666667, 166.25",[687] 245-454,
-465,New Zealand,Auckland,NZ AKL,36° 51' S / 174° 45' E,"36.85, 174.75",[64] (9) 366-0055,www.poal.co.nz
-466,New Zealand,"Otago Harbour (Dunedin, Port Chalmers, Ravensbourne)",NZ ORR,45° 50' S / 170° 37' E,"45.83333333, 170.61666667",[64] (3) 472-7890,www.portotago.co.nz
-467,New Zealand,Tauranga,NZ TRG,37° 39' S / 176° 11' E,"37.65, 176.18333333",[64] (7) 572-8899,www.port-tauranga.co.nz
-468,New Zealand,Wellington,NZ WLG,41° 17' S / 174° 47' E,"41.28333333, 174.78333333",[64] (4) 495-3800,www.centreport.co.nz
-469,Nicaragua,Bluefields,NI BEF,12° 1' N / 83° 45' W,"12.01666667, 83.75",,
-470,Nicaragua,Corinto,NI CIO,12° 30' N / 87° 11' W,"12.5, 87.18333333",[505] 2266-3039,www.epn.com.ni
-471,Nicaragua,El Bluff,NI ELB,12° 0' N / 83° 41' W,"12.0, 83.68333333",[505] 2266-3039,www.epn.com.ni
-472,Nicaragua,Puerto Cabezas,NI PUZ,14° 1' N / 83° 23' W,"14.01666667, 83.38333333",[505] 2266-3039,www.epn.com.ni
-473,Nicaragua,Puerto Sandino,NI PSN,12° 12' N / 86° 46' W,"12.2, 86.76666667",[505] 2266-3039,www.epn.com.ni
-474,Nicaragua,San Juan Del Sur,NI SJS,11° 14' N / 85° 52' W,"11.23333333, 85.86666667",[505] 2266-3039,www.epn.com.ni
+460,Netherlands Antilles,"Kralendijk, Bonaire",AN KRA,12° 9' N / 68° 17' W,"12.15, -67.71666667",[[599] (7) 178-151,
+461,Netherlands Antilles,Philipsburg,AN PHI,18° 5' N / 63° 10' W,"18.08333333, -62.83333333",[599] (5) 222-307,
+462,Netherlands Antilles,Willemstad,AN WIL,12° 6' N / 68° 56' W,"12.1, -67.06666667",[599] (9) 434-5999,www.curports.com
+463,New Caledonia,Noumea,NC NOU,22° 16' S / 166° 27' E,"-21.73333333, 166.45",[687] 255-000,
+464,New Caledonia,Thio,NC THI,21° 37' S / 166° 15' E,"-20.38333333, 166.25",[687] 245-454,
+465,New Zealand,Auckland,NZ AKL,36° 51' S / 174° 45' E,"-35.15, 174.75",[64] (9) 366-0055,www.poal.co.nz
+466,New Zealand,"Otago Harbour (Dunedin, Port Chalmers, Ravensbourne)",NZ ORR,45° 50' S / 170° 37' E,"-44.16666667, 170.61666667",[64] (3) 472-7890,www.portotago.co.nz
+467,New Zealand,Tauranga,NZ TRG,37° 39' S / 176° 11' E,"-36.35, 176.18333333",[64] (7) 572-8899,www.port-tauranga.co.nz
+468,New Zealand,Wellington,NZ WLG,41° 17' S / 174° 47' E,"-40.71666667, 174.78333333",[64] (4) 495-3800,www.centreport.co.nz
+469,Nicaragua,Bluefields,NI BEF,12° 1' N / 83° 45' W,"12.01666667, -82.25",,
+470,Nicaragua,Corinto,NI CIO,12° 30' N / 87° 11' W,"12.5, -86.81666667",[505] 2266-3039,www.epn.com.ni
+471,Nicaragua,El Bluff,NI ELB,12° 0' N / 83° 41' W,"12.0, -82.31666667",[505] 2266-3039,www.epn.com.ni
+472,Nicaragua,Puerto Cabezas,NI PUZ,14° 1' N / 83° 23' W,"14.01666667, -82.61666667",[505] 2266-3039,www.epn.com.ni
+473,Nicaragua,Puerto Sandino,NI PSN,12° 12' N / 86° 46' W,"12.2, -85.23333333",[505] 2266-3039,www.epn.com.ni
+474,Nicaragua,San Juan Del Sur,NI SJS,11° 14' N / 85° 52' W,"11.23333333, -84.13333333",[505] 2266-3039,www.epn.com.ni
 475,Nigeria,Calabar,NG CBQ,4° 58' N / 8° 19' E,"4.96666667, 8.31666667",[234] (87) 225-111,www.nigerianports.org/calabar.aspx
 476,Nigeria,Lagos,NG LOS,6° 27' N / 3° 24' E,"6.45, 3.4",[234] 80 33931286,www.otal.com/nigeria/index.htm
 477,Nigeria,Onne,NG ONN,4° 39' N / 7° 9' E,"4.65, 7.15",[234] (84) 820-464,www.nigerianports.org/AboutUsOnnePort.aspx
@@ -495,21 +495,21 @@
 493,Norway,Trondheim,NO TRD,63° 25' N / 10° 24' E,"63.41666667, 10.4",[47] (73) 991-700,
 494,Pakistan,Karachi,PK KHI,24° 49' N / 66° 59' E,"24.81666667, 66.98333333",[92] (21) 921-4350,www.kpt.gov.pk
 495,Pakistan,Muhammad Bin Qasim,PK BQM,24° 46' N / 67° 21' E,"24.76666667, 67.35",[92] (21) 9927-2111,www.portqasim.org.pk
-496,Panama,Colon,PA ONX,9° 22' N / 79° 55' W,"9.36666667, 79.91666667",,www.ppc.com.pa
-497,Panama,Cristobal,PA CTB,9° 21' N / 79° 55' W,"9.35, 79.91666667",[507]433-7900,www.ppc.com.pa
-498,Panama,Vacamonte,PA VAC,8° 51' N / 79° 40' W,"8.85, 79.66666667",[507] 251-0111,
-499,Papua New Guinea,Kieta,PG KIE,6° 13' S / 155° 38' E,"6.21666667, 155.63333333",[675] 935-134,
-500,Papua New Guinea,Lae,PG LAE,6° 44' S / 146° 59' E,"6.73333333, 146.98333333",[675] 422-477,
-501,Papua New Guinea,Madang,PG MAG,5° 13' S / 145° 49' E,"5.21666667, 145.81666667",[675] 822-352,
-502,Papua New Guinea,Port Moresby,PG POM,9° 29' S / 147° 9' E,"9.48333333, 147.15",[675] 321-1637,www.pngports.com.pg/portmoresby.html
-503,Papua New Guinea,Rabaul,PG RAB,4° 12' S / 152° 10' E,"4.2, 152.16666667",[675] 931-317,
-504,Peru,Callao,PE CLL,12° 3' S / 77° 10' W,"12.05, 77.16666667",[51] (1) 469-1010,www.enapu.com.pe
-505,Peru,Chimbote,PE CHM,9° 5' S / 78° 37' W,"9.08333333, 78.61666667",[51] (43) 32-4239,www.enapu.com.pe
-506,Peru,Ilo,PE ILO,17° 39' S / 71° 21' W,"17.65, 71.35",[51] (53) 481215,www.enapu.com.pe
-507,Peru,Matarani,PE MRI,17° 0' S / 72° 7' W,"17.0, 72.11666667",[51] (54) 557-044,www.enapu.com.pe
-508,Peru,Paita,PE PAI,5° 5' S / 81° 7' W,"5.08333333, 81.11666667",[51] (1) 465-4280,www.enapu.com.pe
-509,Peru,Salaverry,PE SVY,8° 13' S / 78° 59' W,"8.21666667, 78.98333333",[51] (44) 437339,www.enapu.com.pe
-510,Peru,Talara,PE TYL,4° 35' S / 81° 17' W,"4.58333333, 81.28333333",[51] (1) 442-9779,
+496,Panama,Colon,PA ONX,9° 22' N / 79° 55' W,"9.36666667, -78.08333333",,www.ppc.com.pa
+497,Panama,Cristobal,PA CTB,9° 21' N / 79° 55' W,"9.35, -78.08333333",[507]433-7900,www.ppc.com.pa
+498,Panama,Vacamonte,PA VAC,8° 51' N / 79° 40' W,"8.85, -78.33333333",[507] 251-0111,
+499,Papua New Guinea,Kieta,PG KIE,6° 13' S / 155° 38' E,"-5.78333333, 155.63333333",[675] 935-134,
+500,Papua New Guinea,Lae,PG LAE,6° 44' S / 146° 59' E,"-5.26666667, 146.98333333",[675] 422-477,
+501,Papua New Guinea,Madang,PG MAG,5° 13' S / 145° 49' E,"-4.78333333, 145.81666667",[675] 822-352,
+502,Papua New Guinea,Port Moresby,PG POM,9° 29' S / 147° 9' E,"-8.51666667, 147.15",[675] 321-1637,www.pngports.com.pg/portmoresby.html
+503,Papua New Guinea,Rabaul,PG RAB,4° 12' S / 152° 10' E,"-3.8, 152.16666667",[675] 931-317,
+504,Peru,Callao,PE CLL,12° 3' S / 77° 10' W,"-11.95, -76.83333333",[51] (1) 469-1010,www.enapu.com.pe
+505,Peru,Chimbote,PE CHM,9° 5' S / 78° 37' W,"-8.91666667, -77.38333333",[51] (43) 32-4239,www.enapu.com.pe
+506,Peru,Ilo,PE ILO,17° 39' S / 71° 21' W,"-16.35, -70.65",[51] (53) 481215,www.enapu.com.pe
+507,Peru,Matarani,PE MRI,17° 0' S / 72° 7' W,"-17.0, -71.88333333",[51] (54) 557-044,www.enapu.com.pe
+508,Peru,Paita,PE PAI,5° 5' S / 81° 7' W,"-4.91666667, -80.88333333",[51] (1) 465-4280,www.enapu.com.pe
+509,Peru,Salaverry,PE SVY,8° 13' S / 78° 59' W,"-7.78333333, -77.01666667",[51] (44) 437339,www.enapu.com.pe
+510,Peru,Talara,PE TYL,4° 35' S / 81° 17' W,"-3.41666667, -80.71666667",[51] (1) 442-9779,
 511,Philippines,Batangas,PH BTG,13° 45' N / 121° 3' E,"13.75, 121.05",[63] (43) 723-0164,www.ppa.com.ph
 512,Philippines,"Cagayan de Oro, Mindanao",PH CGY,8° 30' N / 124° 39' E,"8.5, 124.65",[63] (88) 2272-2697,www.ppa.com.ph
 513,Philippines,Cebu,PH CEB,10° 18' N / 123° 53' E,"10.3, 123.88333333",[63] (32) 232-1461,www.cpa.gov.ph
@@ -529,22 +529,22 @@
 527,Poland,Swinoujscie,PL SWI,53° 55' N / 14° 15' E,"53.91666667, 14.25",[48] (91) 32 77 200,www.phs.com.pl
 528,Poland,Szczecin,PL SZZ,53° 25' N / 14° 32' E,"53.41666667, 14.53333333",[48] (91) 430-8220,www.portofszczecin.pl
 529,Poland,Ustka,PL UST,54° 35' N / 16° 52' E,"54.58333333, 16.86666667",[48] (59) 144430,www.polfracht.pl/polfracht/psal/localinf/ust/portust.htm
-530,Portugal,Aveiro,PT AVE,40° 39' N / 8° 45' W,"40.65, 8.75",[351] (23) 439-3300,www.portodeaveiro.pt
-531,Portugal,Leixoes,PT LEI,41° 11' N / 8° 43' W,"41.18333333, 8.71666667",[351] (22) 999-0700,www.portodeleixoes.pt
-532,Portugal,Lisbon,PT LIS,38° 42' N / 9° 6' W,"38.7, 9.1",[351] (21) 361-1000,www.porto-de-lisboa.pt
-533,Portugal,Portimao,PT PRM,37° 6' N / 8° 32' W,"37.1, 8.53333333",[351] (282) 450-201,www.imarpor.pt
-534,Portugal,Setubal,PT SET,38° 30' N / 8° 55' W,"38.5, 8.91666667",[351] (265) 542-000,www.portodesetubal.pt
-535,Portugal,Viana Do Castelo,PT VDC,41° 41' N / 8° 48' W,"41.68333333, 8.8",[351] (258) 359-500,www.ipnorte.pt
-536,Puerto Rico,Guanica Harbour,PR GUX,17° 57' N / 66° 54' W,"17.95, 66.9",[1] (787) 729-8804,www.prpa.gobierno.pr
-537,Puerto Rico,Guayanilla,PR GUY,18° 0' N / 66° 46' W,"18.0, 66.76666667",[1] (787) 729-8804,www.prpa.gobierno.pr
-538,Puerto Rico,Las Mareas,PR LAM,17° 55' N / 66° 10' W,"17.91666667, 66.16666667",[1] (787) 729-8804,www.prpa.gobierno.pr
-539,Puerto Rico,Ponce,PR PSE,17° 58' N / 66° 37' W,"17.96666667, 66.61666667",[1] (787) 848-4992,www.prpa.gobierno.pr
-540,Puerto Rico,San Juan,PR SJU,18° 28' N / 66° 7' W,"18.46666667, 66.11666667",[1] (787) 729-8804,www.prpa.gobierno.pr
+530,Portugal,Aveiro,PT AVE,40° 39' N / 8° 45' W,"40.65, -7.25",[351] (23) 439-3300,www.portodeaveiro.pt
+531,Portugal,Leixoes,PT LEI,41° 11' N / 8° 43' W,"41.18333333, -7.28333333",[351] (22) 999-0700,www.portodeleixoes.pt
+532,Portugal,Lisbon,PT LIS,38° 42' N / 9° 6' W,"38.7, -8.9",[351] (21) 361-1000,www.porto-de-lisboa.pt
+533,Portugal,Portimao,PT PRM,37° 6' N / 8° 32' W,"37.1, -7.46666667",[351] (282) 450-201,www.imarpor.pt
+534,Portugal,Setubal,PT SET,38° 30' N / 8° 55' W,"38.5, -7.08333333",[351] (265) 542-000,www.portodesetubal.pt
+535,Portugal,Viana Do Castelo,PT VDC,41° 41' N / 8° 48' W,"41.68333333, -7.2",[351] (258) 359-500,www.ipnorte.pt
+536,Puerto Rico,Guanica Harbour,PR GUX,17° 57' N / 66° 54' W,"17.95, -65.1",[1] (787) 729-8804,www.prpa.gobierno.pr
+537,Puerto Rico,Guayanilla,PR GUY,18° 0' N / 66° 46' W,"18.0, -65.23333333",[1] (787) 729-8804,www.prpa.gobierno.pr
+538,Puerto Rico,Las Mareas,PR LAM,17° 55' N / 66° 10' W,"17.91666667, -65.83333333",[1] (787) 729-8804,www.prpa.gobierno.pr
+539,Puerto Rico,Ponce,PR PSE,17° 58' N / 66° 37' W,"17.96666667, -65.38333333",[1] (787) 848-4992,www.prpa.gobierno.pr
+540,Puerto Rico,San Juan,PR SJU,18° 28' N / 66° 7' W,"18.46666667, -65.88333333",[1] (787) 729-8804,www.prpa.gobierno.pr
 541,Qatar,Doha,QA DOH,29° 23' N / 47° 48' E,"29.38333333, 47.8",[974] 445-7457,
 542,Qatar,Halul Island,QA HAL,25° 40' N / 52° 25' E,"25.66666667, 52.41666667",[974] 440-1446,
 543,Qatar,Ras Laffan,QA RLF,25° 56'N / 51° 37' E,"25, 51.61666667",[974] 440-2498,
 544,Qatar,Umm Said (Mesaieed),QA UMS,24° 54' N / 51° 34' E,"24.9, 51.56666667",[974] 477-0421,
-545,Reunion,Port Reunion (Pointe des Galets),RE PDG,20° 55' S / 55° 17' E,"20.91666667, 55.28333333",[262] 262-429-191,www.maritime-database.com/port.php?pid=795
+545,Reunion,Port Reunion (Pointe des Galets),RE PDG,20° 55' S / 55° 17' E,"-19.08333333, 55.28333333",[262] 262-429-191,www.maritime-database.com/port.php?pid=795
 546,Romania,Braila,RO BRA,45° 15' N / 27° 59' E,"45.25, 27.98333333",[40] (239) 611-551,www.romanian-ports.ro/html/porturi_mfbr_en.html
 547,Romania,Constantza,RO CND,44° 10' N / 28° 39' E,"44.16666667, 28.65",[40] (241) 611-540,www.portofconstantza.com
 548,Romania,Mangalia,RO MAG,43° 49' N / 28° 35' E,"43.81666667, 28.58333333",[40] (241) 611-540,www.portofconstantza.com
@@ -558,11 +558,11 @@
 556,Russia,Tuapse,RU TUA,44° 6' N / 39° 4' E,"44.1, 39.06666667",[7] (812) 234-1151,www.ust-luga.ru
 557,Russia,Vladivostok,RU VVO,43° 10' N / 132° 0' E,"43.16666667, 132.0",[7] (4232) 495-222,www.vmtp.ru
 558,Russia,Vyborg,RU VYG,60° 42' N / 28° 44' E,"60.7, 28.73333333",[7] (812) 78 -859,www.vyborg.ru/org/baff/index.html
-559,Saint Kitts and Nevis,Basseterre,KN BAS,17° 18' N / 62° 43' W,"17.3, 62.71666667",,www.scaspa.com/cargo_port.asp
-560,Saint Lucia,Castries (St Lucia),LC SLU,14° 1' N / 61° 0' W,"14.01666667, 61.0",[1] (758) 452-2866,www.slaspa.com
-561,Saint Lucia,Vieux Fort,LC VIF,13° 43' N / 60° 58' W,"13.71666667, 60.96666667",[1] (758) 454-8742,
-562,Saint Vincent and the Grenadines,Kingstown,VC KTN,13° 9' N / 61° 14' W,"13.15, 61.23333333",[1] (784) 456-1830,http://ports.com/saint-vincent-and-the-grenadines/port-of-kingstown
-563,Samoa,Apia,WS APW,13° 50' S / 171° 45' W,"13.83333333, 171.75",[685] 64-400,www.spasamoa.ws
+559,Saint Kitts and Nevis,Basseterre,KN BAS,17° 18' N / 62° 43' W,"17.3, -61.28333333",,www.scaspa.com/cargo_port.asp
+560,Saint Lucia,Castries (St Lucia),LC SLU,14° 1' N / 61° 0' W,"14.01666667, -61.0",[1] (758) 452-2866,www.slaspa.com
+561,Saint Lucia,Vieux Fort,LC VIF,13° 43' N / 60° 58' W,"13.71666667, -59.03333333",[1] (758) 454-8742,
+562,Saint Vincent and the Grenadines,Kingstown,VC KTN,13° 9' N / 61° 14' W,"13.15, -60.76666667",[1] (784) 456-1830,http://ports.com/saint-vincent-and-the-grenadines/port-of-kingstown
+563,Samoa,Apia,WS APW,13° 50' S / 171° 45' W,"-12.16666667, -170.25",[685] 64-400,www.spasamoa.ws
 564,Sao Tome and Principe,Santo Antonio,ST SAA,1° 39' N / 7° 27' E,"1.65, 7.45",,
 565,Sao Tome and Principe,Sao Tome,ST TMS,0° 21' N / 6° 45' E,"0.35, 6.75",[239] 222 089,www.enaport.st
 566,Saudi Arabia,Dammam,SA DMN,26° 30' N / 50° 12' E,"26.5, 50.2",[966] (3) 858-3199,www.ports.gov.sa
@@ -574,53 +574,53 @@
 572,Saudi Arabia,Ras al Mishab,SA RAM,28° 6' N / 48° 37' E,"28.1, 48.61666667",,
 573,Saudi Arabia,Ras Tanura,SA RTA,26° 39' N / 50° 10' E,"26.65, 50.16666667",[966] (3) 673-4252,www.ports.gov.sa
 574,Saudi Arabia,Yanbu,SA YNB,24° 5' N / 38° 3' E,"24.08333333, 38.05",[966] (4) 322-2100,www.ports.gov.sa
-575,Senegal,Dakar,SN DKR,14° 40' N / 17° 26' W,"14.66666667, 17.43333333",[221] 849-4545,www.portdakar.sn
-576,Seychelles,Port Victoria,SC POV,4° 37' S / 55° 28' E,"4.61666667, 55.46666667",[248] 224-701,
-577,Sierra Leone,Freetown,SL FNA,8° 30' N / 13° 14' W,"8.5, 13.23333333",[232] (22) 221-709,www.otal.com/sierra
-578,Sierra Leone,Pepel,SL PEP,8° 34' N / 13° 3' W,"8.56666667, 13.05",[232] (22) 226-480,
+575,Senegal,Dakar,SN DKR,14° 40' N / 17° 26' W,"14.66666667, -16.56666667",[221] 849-4545,www.portdakar.sn
+576,Seychelles,Port Victoria,SC POV,4° 37' S / 55° 28' E,"-3.38333333, 55.46666667",[248] 224-701,
+577,Sierra Leone,Freetown,SL FNA,8° 30' N / 13° 14' W,"8.5, -12.76666667",[232] (22) 221-709,www.otal.com/sierra
+578,Sierra Leone,Pepel,SL PEP,8° 34' N / 13° 3' W,"8.56666667, -12.95",[232] (22) 226-480,
 579,Singapore,Singapore,SG SIN,1° 16' N / 103° 50' E,"1.26666667, 103.83333333",[65] 6375-1600,www.mpa.gov.sg
 580,Slovenia,Izola,SI IZO,45° 31' N / 13° 41' E,"45.51666667, 13.68333333",[386] (6) 663-443,
 581,Slovenia,Koper,SI KOP,45° 31' N / 13° 44' E,"45.51666667, 13.73333333",[386] (5) 663-2100,www.up.gov.si
 582,Slovenia,Piran,SI PIR,45° 31' N / 13° 36' E,"45.51666667, 13.6",[386] (6) 673-676,www.up.gov.si
-583,Solomon Islands,Honiara,SB HIR,9° 25' S / 159° 57' E,"9.41666667, 159.95",[677] 22646,http://ports.com/solomon-islands/port-of-honiara
-584,Solomon Islands,"Noro, New Georgia",SB NOR,8° 13' S / 157° 12' E,"8.21666667, 157.2",[677] 22646,
-585,Solomon Islands,Viru Harbour,SB VIU,8° 30' S / 157° 43' E,"8.5, 157.71666667",[677] 39922,
-586,Solomon Islands,"Yandina, Pavuvu Island",SB XYA,9° 4' S / 159° 14' E,"9.06666667, 159.23333333",[677] 21779,
+583,Solomon Islands,Honiara,SB HIR,9° 25' S / 159° 57' E,"-8.58333333, 159.95",[677] 22646,http://ports.com/solomon-islands/port-of-honiara
+584,Solomon Islands,"Noro, New Georgia",SB NOR,8° 13' S / 157° 12' E,"-7.78333333, 157.2",[677] 22646,
+585,Solomon Islands,Viru Harbour,SB VIU,8° 30' S / 157° 43' E,"-7.5, 157.71666667",[677] 39922,
+586,Solomon Islands,"Yandina, Pavuvu Island",SB XYA,9° 4' S / 159° 14' E,"-8.93333333, 159.23333333",[677] 21779,
 587,Somalia,Berbera,SO BBO,10° 26' N / 45° 1' E,"10.43333333, 45.01666667",,
 588,Somalia,Kismayu,SO KMU,0° 23' S / 42° 33' E,"0.38333333, 42.55",,
 589,Somalia,Merca,SO MER,1° 43' N / 44° 46' E,"1.71666667, 44.76666667",,
 590,Somalia,Mogadishu,SO MGQ,2° 1' N / 45° 21' E,"2.01666667, 45.35",[252] 5-922799,http://mogadishoport.com
-591,South Africa,Cape Town,ZA CPT,33° 54' S / 18° 26' E,"33.9, 18.43333333",[27] (21) 449 3408,www.transnetnationalportsauthority.net
-592,South Africa,Durban,ZA DUR,29° 53' S / 31° 2' E,"29.88333333, 31.03333333",[27] (31) 361-3755,www.transnetnationalportsauthority.net
-593,South Africa,Mossel Bay,ZA MZY,34° 10' S / 22° 9' E,"34.16666667, 22.15",[27] (44) 604-6271,www.transnetnationalportsauthority.net
-594,South Africa,Port Elizabeth,ZA PLZ,33° 57' S / 25° 39' E,"33.95, 25.65",[27] (41) 507-1885,www.transnetnationalportsauthority.net
-595,South Africa,Richards Bay,ZA RCB,28° 48' S / 32° 2' E,"28.8, 32.03333333",[27] (351) 905-3203,www.transnetnationalportsauthority.net
-596,South Africa,Saldanha Bay,ZA SDB,33° 2' S / 17° 58' E,"33.03333333, 17.96666667",[27] (22) 703-5302,www.transnetnationalportsauthority.net
-597,Spain,Aviles,ES AVS,43° 35' N / 5° 56' W,"43.58333333, 5.93333333",[34] (98) 554-1111,
+591,South Africa,Cape Town,ZA CPT,33° 54' S / 18° 26' E,"-32.1, 18.43333333",[27] (21) 449 3408,www.transnetnationalportsauthority.net
+592,South Africa,Durban,ZA DUR,29° 53' S / 31° 2' E,"-28.11666667, 31.03333333",[27] (31) 361-3755,www.transnetnationalportsauthority.net
+593,South Africa,Mossel Bay,ZA MZY,34° 10' S / 22° 9' E,"-33.83333333, 22.15",[27] (44) 604-6271,www.transnetnationalportsauthority.net
+594,South Africa,Port Elizabeth,ZA PLZ,33° 57' S / 25° 39' E,"-32.05, 25.65",[27] (41) 507-1885,www.transnetnationalportsauthority.net
+595,South Africa,Richards Bay,ZA RCB,28° 48' S / 32° 2' E,"-27.2, 32.03333333",[27] (351) 905-3203,www.transnetnationalportsauthority.net
+596,South Africa,Saldanha Bay,ZA SDB,33° 2' S / 17° 58' E,"-32.96666667, 17.96666667",[27] (22) 703-5302,www.transnetnationalportsauthority.net
+597,Spain,Aviles,ES AVS,43° 35' N / 5° 56' W,"43.58333333, -4.06666667",[34] (98) 554-1111,
 598,Spain,Barcelona,ES BCN,41° 20' N / 2° 10' E,"41.33333333, 2.16666667",[34] (93) 298-6000,www.apb.es
-599,Spain,Bilbao,ES BIO,43° 17' N / 2° 55' W,"43.28333333, 2.91666667",[34] (94) 487-1200,www.bilbaoport.es
-600,Spain,Cadiz,ES CAD,36° 31' N / 6° 18' W,"36.51666667, 6.3",[34] (956) 240-400,www.puertocadiz.com
+599,Spain,Bilbao,ES BIO,43° 17' N / 2° 55' W,"43.28333333, -1.08333333",[34] (94) 487-1200,www.bilbaoport.es
+600,Spain,Cadiz,ES CAD,36° 31' N / 6° 18' W,"36.51666667, -5.7",[34] (956) 240-400,www.puertocadiz.com
 601,Spain,Cartagena,ES CAR,37° 37' N / 0° 59' W,"37.61666667, 0.98333333",[34] (968) 325-800,www.apc.es
 602,Spain,Castellon,ES CAS,39° 58' N / 0° 1' W,"39.96666667, 0.01666667",[34] (964) 281-140,www.portcastello.com
-603,Spain,Ceuta,ES CEU,35° 53' N / 5° 17' W,"35.88333333, 5.28333333",[34] (956) 205-023,www.puertodeceuta.com
-604,Spain,Huelva,ES HUV,37° 16' N / 6° 55' W,"37.26666667, 6.91666667",[34] (959) 213-100,www.puertohuelva.com
-605,Spain,Malaga,ES AGP,36° 43' N / 4° 25' W,"36.71666667, 4.41666667",[34] (95) 212-5000,www.puertomalaga.com
-606,Spain,Pasajes,ES PAS,43° 20' N / 1° 56' W,"43.33333333, 1.93333333",[34] (943) 351-844,www.puertopasajes.net
-607,Spain,Santander,ES SDR,43° 28' N / 3° 49' W,"43.46666667, 3.81666667",[34] (942) 203-600,www.puertosantander.es
+603,Spain,Ceuta,ES CEU,35° 53' N / 5° 17' W,"35.88333333, -4.71666667",[34] (956) 205-023,www.puertodeceuta.com
+604,Spain,Huelva,ES HUV,37° 16' N / 6° 55' W,"37.26666667, -5.08333333",[34] (959) 213-100,www.puertohuelva.com
+605,Spain,Malaga,ES AGP,36° 43' N / 4° 25' W,"36.71666667, -3.58333333",[34] (95) 212-5000,www.puertomalaga.com
+606,Spain,Pasajes,ES PAS,43° 20' N / 1° 56' W,"43.33333333, -0.06666667",[34] (943) 351-844,www.puertopasajes.net
+607,Spain,Santander,ES SDR,43° 28' N / 3° 49' W,"43.46666667, -2.18333333",[34] (942) 203-600,www.puertosantander.es
 608,Spain,Tarragona,ES TAR,41° 5' N / 1° 14' E,"41.08333333, 1.23333333",[34] (977) 259-407,www.porttarragona.es
 609,Spain,Valencia,ES VLC,39° 27' N / 0° 18' W,"39.45, 0.3",[34] (96) 393-9500,www.valenciaport.com
-610,Spain,Vigo,ES VGO,42° 14' N / 8° 42' W,"42.23333333, 8.7",[34] (986) 268-000,www.apvigo.com
+610,Spain,Vigo,ES VGO,42° 14' N / 8° 42' W,"42.23333333, -7.3",[34] (986) 268-000,www.apvigo.com
 611,Sri Lanka,Colombo,LK CMB,6° 56' N / 79° 50' E,"6.93333333, 79.83333333",[94] (11) 242-1231,www.slpa.lk
 612,Sri Lanka,Jaffna,LK JAF,9° 40' N / 80° 1' E,"9.66666667, 80.01666667",[94] (11) 244-0651,www.slpa.lk
 613,Sri Lanka,Trincomalee,LK TRR,8° 36' N / 81° 15' E,"8.6, 81.25",[94] (26) 222-1013,www.slpa.lk
-614,St. Helena,Jamestown,SH SHN,15° 56' S / 5° 43' W,"15.93333333, 5.71666667",,
-615,St. Pierre and Miquelon,St Pierre,PM FSP,46° 47' N / 56° 10' W,"46.78333333, 56.16666667",[508] 417-332,
+614,St. Helena,Jamestown,SH SHN,15° 56' S / 5° 43' W,"-14.06666667, -4.28333333",,
+615,St. Pierre and Miquelon,St Pierre,PM FSP,46° 47' N / 56° 10' W,"46.78333333, -55.83333333",[508] 417-332,
 616,Sudan,Port Sudan,SD PZU,19° 37' N / 37° 14' E,"19.61666667, 37.23333333",,
-617,Suriname,Moengo,SR MOJ,5° 39' N / 54° 25' W,"5.65, 54.41666667",[597] 476-733,www.mas.sr
-618,Suriname,Nieuw Nickerie,SR ICK,5° 57' N / 56° 59' W,"5.95, 56.98333333",[597] 476-733,www.mas.sr
-619,Suriname,Paramaribo,SR PBM,5° 59' N / 55° 9' W,"5.98333333, 55.15",[597] 476-733,www.mas.sr
-620,Suriname,Paranam,SR PRM,5° 38' N / 55° 5' W,"5.63333333, 55.08333333",[597] 476-733,www.mas.sr
-621,Suriname,Wageningen,SR AGI,5° 46' N / 56° 41' W,"5.76666667, 56.68333333",[597] 476-733,www.mas.sr
+617,Suriname,Moengo,SR MOJ,5° 39' N / 54° 25' W,"5.65, -53.58333333",[597] 476-733,www.mas.sr
+618,Suriname,Nieuw Nickerie,SR ICK,5° 57' N / 56° 59' W,"5.95, -55.01666667",[597] 476-733,www.mas.sr
+619,Suriname,Paramaribo,SR PBM,5° 59' N / 55° 9' W,"5.98333333, -54.85",[597] 476-733,www.mas.sr
+620,Suriname,Paranam,SR PRM,5° 38' N / 55° 5' W,"5.63333333, -54.91666667",[597] 476-733,www.mas.sr
+621,Suriname,Wageningen,SR AGI,5° 46' N / 56° 41' W,"5.76666667, -55.31666667",[597] 476-733,www.mas.sr
 622,Sweden,Gavle,SE GVX,60° 41' N / 17° 11' E,"60.68333333, 17.18333333",[46] (26) 178-843,www.gavle-port.se
 623,Sweden,Gothenburg (Goteborg),SE GOT,57° 42' N / 11° 57' E,"57.7, 11.95",[46] (31) 731-2000,www.portgot.se/
 624,Sweden,Halmstad,SE HAD,56° 40' N / 12° 52' E,"56.66666667, 12.86666667",[46] (35) 155-300,www.halmstadharbour.se
@@ -638,12 +638,12 @@
 636,Taiwan,Keelung (Chilung),TW KEL,25° 9' N / 121° 44' E,"25.15, 121.73333333",[886] (2) 2420-6106,www.klhb.gov.tw
 637,Taiwan,Suao,TW SUO,24° 35' N / 121° 51' E,"24.58333333, 121.85",[886] (3) 997-2001,
 638,Taiwan,Taichung,TW TXG,24° 17' N / 120° 30' E,"24.28333333, 120.5",[886] (4) 2656-2611,www.tchb.gov.tw
-639,Tanzania,Dar Es Salaam,TZ DAR,6° 50' S / 39° 17' E,"6.83333333, 39.28333333",[255] (22) 211-6250,www.tanzaniaports.com
-640,Tanzania,Kilwa Masoko,TZ KIM,8° 56' S / 39° 31' E,"8.93333333, 39.51666667",[255] (22) 211-6250,www.tanzaniaports.com
-641,Tanzania,Lindi,TZ LDI,10° 0' S / 39° 44' E,"10.0, 39.73333333",[255] (22) 211-6250,www.tanzaniaports.com
-642,Tanzania,Mtwara,TZ MYW,10° 16' S / 40° 12' E,"10.26666667, 40.2",[255] (22) 211-6250,www.tanzaniaports.com
-643,Tanzania,Pangani,TZ PAN,5° 27' S / 39° 0' E,"5.45, 39.0",[255] (22) 211-6250,www.tanzaniaports.com
-644,Tanzania,Tanga,TZ TGT,5° 4' S / 39° 8' E,"5.06666667, 39.13333333",[255] (27) 211-6250,www.tanzaniaports.com
+639,Tanzania,Dar Es Salaam,TZ DAR,6° 50' S / 39° 17' E,"-5.16666667, 39.28333333",[255] (22) 211-6250,www.tanzaniaports.com
+640,Tanzania,Kilwa Masoko,TZ KIM,8° 56' S / 39° 31' E,"-7.06666667, 39.51666667",[255] (22) 211-6250,www.tanzaniaports.com
+641,Tanzania,Lindi,TZ LDI,10° 0' S / 39° 44' E,"-10.0, 39.73333333",[255] (22) 211-6250,www.tanzaniaports.com
+642,Tanzania,Mtwara,TZ MYW,10° 16' S / 40° 12' E,"-9.73333333, 40.2",[255] (22) 211-6250,www.tanzaniaports.com
+643,Tanzania,Pangani,TZ PAN,5° 27' S / 39° 0' E,"-4.55, 39.0",[255] (22) 211-6250,www.tanzaniaports.com
+644,Tanzania,Tanga,TZ TGT,5° 4' S / 39° 8' E,"-4.93333333, 39.13333333",[255] (27) 211-6250,www.tanzaniaports.com
 645,Thailand,Bangkok,TH BKK,13° 26' N / 100° 35' E,"13.43333333, 100.58333333",[66] (2) 233-1311,www.port.co.th
 646,Thailand,Laem Chabang,TH LCH,13° 5' N / 100° 53' E,"13.08333333, 100.88333333",[66] (2) 234-1070,www.port.co.th
 647,Thailand,Pattani,TH PAN,6° 57' N / 101° 18' E,"6.95, 101.3",[66] (2) 234-1070,www.port.co.th
@@ -653,15 +653,15 @@
 651,Thailand,Sriracha,TH SRI,13° 7' N / 100° 52' E,"13.11666667, 100.86666667",[66] (38) 773-069,www.port.co.th
 652,Togo,Kpeme,TG KPE,6° 12' N / 1° 30' E,"6.2, 1.5",[228] 221-3901,
 653,Togo,Lome,TG LFW,6° 8' N / 1° 17' E,"6.13333333, 1.28333333",[228] 227-4742,www.togoport.tg
-654,Tonga,Neiafu,TO NEI,18° 39' S / 173° 59' W,"18.65, 173.98333333",[676] (88) 70639,
-655,Tonga,Nukualofa,TO TBU,21° 8' S / 175° 11' W,"21.13333333, 175.18333333",[676] (87) 24470,
-656,Tonga,Pangai,TO PAN,19° 50' S / 174° 23' W,"19.83333333, 174.38333333",[676] (87) 22555,
-657,Trinidad and Tobago,Point Fortin,TT PTF,10° 12' N / 61° 42' W,"10.2, 61.7",[1] (868) 648-2916,
-658,Trinidad and Tobago,Point Lisas,TT PTS,10° 22' N / 61° 29' W,"10.36666667, 61.48333333",[1] (868) 636-2201,www.plipdeco.com
-659,Trinidad and Tobago,Pointe a Pierre,TT PTP,10° 19' N / 61° 29' W,"10.31666667, 61.48333333",[1] (868) 624-2426,www.patnt.com
-660,Trinidad and Tobago,Scarborough,TT SCA,11° 11' N / 60° 44' W,"11.18333333, 60.73333333",[1] (868) 624-2426,www.patnt.com
-661,Trinidad and Tobago,Spain,TT POS,10° 39' N / 61° 32' W,"10.65, 61.53333333",[1] (868) 624-2426,www.patnt.com
-662,Trinidad and Tobago,Tembladora,TT TEM,10° 14' N / 61° 36' W,"10.23333333, 61.6",[1] (868) 624-2426,www.patnt.com
+654,Tonga,Neiafu,TO NEI,18° 39' S / 173° 59' W,"-17.35, -172.01666667",[676] (88) 70639,
+655,Tonga,Nukualofa,TO TBU,21° 8' S / 175° 11' W,"-20.86666667, -174.81666667",[676] (87) 24470,
+656,Tonga,Pangai,TO PAN,19° 50' S / 174° 23' W,"-18.16666667, -173.61666667",[676] (87) 22555,
+657,Trinidad and Tobago,Point Fortin,TT PTF,10° 12' N / 61° 42' W,"10.2, -60.3",[1] (868) 648-2916,
+658,Trinidad and Tobago,Point Lisas,TT PTS,10° 22' N / 61° 29' W,"10.36666667, -60.51666667",[1] (868) 636-2201,www.plipdeco.com
+659,Trinidad and Tobago,Pointe a Pierre,TT PTP,10° 19' N / 61° 29' W,"10.31666667, -60.51666667",[1] (868) 624-2426,www.patnt.com
+660,Trinidad and Tobago,Scarborough,TT SCA,11° 11' N / 60° 44' W,"11.18333333, -59.26666667",[1] (868) 624-2426,www.patnt.com
+661,Trinidad and Tobago,Spain,TT POS,10° 39' N / 61° 32' W,"10.65, -60.46666667",[1] (868) 624-2426,www.patnt.com
+662,Trinidad and Tobago,Tembladora,TT TEM,10° 14' N / 61° 36' W,"10.23333333, -60.4",[1] (868) 624-2426,www.patnt.com
 663,Tunisia,Bizerte,TN BIZ,37° 17' N / 9° 54' E,"37.28333333, 9.9",[216] (71) 735-300,www.ommp.nat.tn
 664,Tunisia,Gabes,TN GAE,33° 57' N / 10° 4' E,"33.95, 10.06666667",[216] (71) 735-300,www.ommp.nat.tn
 665,Tunisia,La Goulette,TN LGN,36° 49' N / 10° 18' E,"36.81666667, 10.3",[216] (71) 735-300,www.ommp.nat.tn
@@ -675,31 +675,31 @@
 673,Turkey,"Iskenderun, Hatay",TR ISK,36° 38' N / 36° 10' E,"36.63333333, 36.16666667",[90] (326) 614-0047,http://ports.com/turkey/port-of-iskenderun-isdemir
 674,Turkey,Istanbul,TR IST,41° 1' N / 28° 59' E,"41.01666667, 28.98333333",[90] (216) 337-9988,www.nrlmry.navy.mil/~cannon/medports/Istanbul/index.html
 675,Turkey,Trabzon,TR TZX,41° 1' N / 39° 46' E,"41.01666667, 39.76666667",[90] (462) 321-1156,http://portfocus.com/turkey/trabzon/index.html
-676,Turks and Caicos Islands,Grand Turk Island,TC GDT,21° 26' N / 71° 8' W,"21.43333333, 71.13333333",[1] (649) 946-2970,
-677,Turks and Caicos Islands,Providenciales,TC PLS,21° 30' N / 72° 30' W,"21.5, 72.5",[1] (649) 946-4241,
-678,Tuvalu,Funafuti,TV FUN,8° 31' S / 179° 13' W,"8.51666667, 179.21666667",[688] 20725,
-679,United Kingdom,Aberdeen,GB ABD,57° 8' N / 2° 4' W,"57.13333333, 2.06666667",[44] (1224) 597-000,http://www.aberdeen-harbour.co.uk
-680,United Kingdom,Belfast,GB BEL,54° 36' N / 5° 56' W,"54.6, 5.93333333",[44] (28) 9055-4422,www.belfast-harbour.co.uk
-681,United Kingdom,Bristol,GB BRS,51° 30' N / 2° 43' W,"51.5, 2.71666667",[44] (117) 982-0000,www.bristolport.co.uk
+676,Turks and Caicos Islands,Grand Turk Island,TC GDT,21° 26' N / 71° 8' W,"21.43333333, -70.86666667",[1] (649) 946-2970,
+677,Turks and Caicos Islands,Providenciales,TC PLS,21° 30' N / 72° 30' W,"21.5, -71.5",[1] (649) 946-4241,
+678,Tuvalu,Funafuti,TV FUN,8° 31' S / 179° 13' W,"-7.48333333, -178.78333333",[688] 20725,
+679,United Kingdom,Aberdeen,GB ABD,57° 8' N / 2° 4' W,"57.13333333, -1.93333333",[44] (1224) 597-000,http://www.aberdeen-harbour.co.uk
+680,United Kingdom,Belfast,GB BEL,54° 36' N / 5° 56' W,"54.6, -4.06666667",[44] (28) 9055-4422,www.belfast-harbour.co.uk
+681,United Kingdom,Bristol,GB BRS,51° 30' N / 2° 43' W,"51.5, -1.28333333",[44] (117) 982-0000,www.bristolport.co.uk
 682,United Kingdom,Dover,GB DVR,51° 7' N / 1° 18' E,"51.11666667, 1.3",[44] (1304) 240-400,www.doverport.co.uk
-683,United Kingdom,Falmouth,GB FAL,50° 9' N / 5° 4' W,"50.15, 5.06666667",[44] (1326) 312-285,www.falmouthport.co.uk
+683,United Kingdom,Falmouth,GB FAL,50° 9' N / 5° 4' W,"50.15, -4.93333333",[44] (1326) 312-285,www.falmouthport.co.uk
 684,United Kingdom,Felixstowe,GB FXT,51° 57' N / 1° 21' E,"51.95, 1.35",[44] (1394) 604-500,www.portoffelixstowe.co.uk
-685,United Kingdom,Glasgow,GB GLW,55° 52' N / 4° 21' W,"55.86666667, 4.35",[44] (141) 221-8733,www.clydeport.co.uk
-686,United Kingdom,Grangemouth,GB GRG,56° 1' N / 3° 43' W,"56.01666667, 3.71666667",[44] (1324) 482-591,
+685,United Kingdom,Glasgow,GB GLW,55° 52' N / 4° 21' W,"55.86666667, -3.65",[44] (141) 221-8733,www.clydeport.co.uk
+686,United Kingdom,Grangemouth,GB GRG,56° 1' N / 3° 43' W,"56.01666667, -2.28333333",[44] (1324) 482-591,
 687,United Kingdom,Hull,GB HUL,53° 44' N / 0° 14' W,"53.73333333, 0.23333333",[44] (1482) 327-171,www.abports.co.uk
-688,United Kingdom,Leith,GB LEI,55° 59' N / 3° 10' W,"55.98333333, 3.16666667",[44] (131) 555 8750,www.forthports.co.uk
-689,United Kingdom,Liverpool,GB LIV,53° 28' N / 3° 2' W,"53.46666667, 3.03333333",[44] (151) 949-6000,www.portofliverpool.co.uk
+688,United Kingdom,Leith,GB LEI,55° 59' N / 3° 10' W,"55.98333333, -2.83333333",[44] (131) 555 8750,www.forthports.co.uk
+689,United Kingdom,Liverpool,GB LIV,53° 28' N / 3° 2' W,"53.46666667, -2.96666667",[44] (151) 949-6000,www.portofliverpool.co.uk
 690,United Kingdom,London,GB LON,51° 30' N / 0° 5' W,"51.5, 0.08333333",[44] (20) 7743 7900,www.portoflondon.co.uk
-691,United Kingdom,Manchester,GB MNC,53° 29' N / 2° 14' W,"53.48333333, 2.23333333",[44] (1928) 567-465,www.shipcanal.co.uk
-692,United Kingdom,Peterhead Bay,GB PHD,57° 30' N / 1° 47' W,"57.5, 1.78333333",[44] (1779) 474-020,www.peterheadport.co.uk
-693,United Kingdom,Plymouth,GB PLY,50° 22' N / 4° 9' W,"50.36666667, 4.15",[44] (1752) 662-191,www.plymouthport.org.uk
-694,United Kingdom,Portsmouth,GB PME,50° 48' N / 1° 7' W,"50.8, 1.11666667",[44] (23) 9229-7391,www.portsmouth-port.co.uk
-695,United Kingdom,Scapa Flow,GB SFW,58° 53' N / 3° 5' W,"58.88333333, 3.08333333",[44] (1856) 873-636,www.orkney.gov.uk
-696,United Kingdom,Southampton,GB SOU,50° 54' N / 1° 24' W,"50.9, 1.4",[44] (23) 8033-8100,www.abpmer.co.uk
-697,United Kingdom,Sullom Voe,GB SUL,60° 27' N / 1° 17' W,"60.45, 1.28333333",[44] (1806) 242-551,www.shetland.gov.uk/pandharb/mo3frames.htm
-698,United Kingdom,Teesport,GB TEE,54° 39' N / 1° 8' W,"54.65, 1.13333333",[44] (1642) 877-000,www.thpal.co.uk
+691,United Kingdom,Manchester,GB MNC,53° 29' N / 2° 14' W,"53.48333333, -1.76666667",[44] (1928) 567-465,www.shipcanal.co.uk
+692,United Kingdom,Peterhead Bay,GB PHD,57° 30' N / 1° 47' W,"57.5, -0.21666667",[44] (1779) 474-020,www.peterheadport.co.uk
+693,United Kingdom,Plymouth,GB PLY,50° 22' N / 4° 9' W,"50.36666667, -3.85",[44] (1752) 662-191,www.plymouthport.org.uk
+694,United Kingdom,Portsmouth,GB PME,50° 48' N / 1° 7' W,"50.8, -0.88333333",[44] (23) 9229-7391,www.portsmouth-port.co.uk
+695,United Kingdom,Scapa Flow,GB SFW,58° 53' N / 3° 5' W,"58.88333333, -2.91666667",[44] (1856) 873-636,www.orkney.gov.uk
+696,United Kingdom,Southampton,GB SOU,50° 54' N / 1° 24' W,"50.9, -0.6",[44] (23) 8033-8100,www.abpmer.co.uk
+697,United Kingdom,Sullom Voe,GB SUL,60° 27' N / 1° 17' W,"60.45, -0.71666667",[44] (1806) 242-551,www.shetland.gov.uk/pandharb/mo3frames.htm
+698,United Kingdom,Teesport,GB TEE,54° 39' N / 1° 8' W,"54.65, -0.86666667",[44] (1642) 877-000,www.thpal.co.uk
 699,United Kingdom,Thamesport,GB RCS,51° 26' N / 0° 42' W,"51.43333333, 0.7",[44] (1634) 271-511,www.londonthamesport.co.uk
-700,United Kingdom,Tyne,GB TYN,55° 1' N / 1° 24' W,"55.01666667, 1.4",[44] (191) 455-2671,www.portoftyne.co.uk
+700,United Kingdom,Tyne,GB TYN,55° 1' N / 1° 24' W,"55.01666667, -0.6",[44] (191) 455-2671,www.portoftyne.co.uk
 701,Ukraine,Berdyansk,UA ERD,46° 45' N / 36° 48' E,"46.75, 36.8",[380] (61) 537-2210,
 702,Ukraine,Kherson,UA KHE,46° 37' N / 32° 37' E,"46.61666667, 32.61666667",[380] (55) 226-5085,www.ceebd.co.uk/ceebd/kherson.htm
 703,Ukraine,Odessa,UA ODS,46° 30' N / 30° 46' E,"46.5, 30.76666667",[380] (48) 729-3661,www.port.odessa.ua
@@ -713,78 +713,78 @@
 711,United Arab Emirates,Khor Fakkan,AE KLF,25° 21' N / 56° 22' E,"25.35, 56.36666667",[971] (9) 238-5324,www.gulftainer.com
 712,United Arab Emirates,Mina Saqr,AE MSA,25° 58' N / 56° 3' E,"25.96666667, 56.05",[971] (7) 266-8444,www.saqrport.com
 713,United Arab Emirates,Mina Zayed,AE MZD,24° 32' N / 54° 23' E,"24.53333333, 54.38333333",[971] (2) 673-0600,
-714,United States,Anacortes,US AOT,48° 31' N / 122° 36' W,"48.51666667, 122.6",[1] (360) 293-3134,www.portofanacortes.com
-715,United States,Ashtabula,US ASF,41° 54' N / 80° 48' W,"41.9, 80.8",[1] (440) 964-7047,www.ashtabulacityport.com
-716,United States,Baltimore,US BAL,39° 17' N / 76° 35' W,"39.28333333, 76.58333333",[1] (410) 385-4401,www.mpa.maryland.gov
-717,United States,Baton Rouge,US BTR,30° 28' N / 91° 12' W,"30.46666667, 91.2",[1] (225) 342-1660,www.portgbr.com
-718,United States,Beaumont,US BPT,30° 5' N / 94° 5' W,"30.08333333, 94.08333333",[1] (409) 835-5367,www.portofbeaumont.com
-719,United States,Boston,US BOS,42° 21' N / 71° 5' W,"42.35, 71.08333333",[1] (617) 946-4413,www.massport.com/port-of-boston
-720,United States,Charleston,US CHS,32° 47' N / 79° 56' W,"32.78333333, 79.93333333",[1] (843) 557-8600,www.scspa.com
-721,United States,Chicago,US CHI,41° 50' N / 87° 38' W,"41.83333333, 87.63333333",[1] (773) 646-4400,www.illinoisinternationalportdistrict.com
-722,United States,Cleveland,US CLE,41° 31' N / 81° 43' W,"41.51666667, 81.71666667",[1] (216) 241-8004,www.portofcleveland.com
-723,United States,Corpus Christi,US CRP,27° 48' N / 97° 23' W,"27.8, 97.38333333",[1] (361) 882-5633,www.portofcorpuschristi.com
-724,United States,Detroit,US DET,42° 20' N / 83° 2' W,"42.33333333, 83.03333333",[1] (313) 331-3842,www.portdetroit.com
-725,United States,Duluth-Superior,US DLH,46° 44' N / 92° 6' W,"46.73333333, 92.1",[1] (218) 727-8525,www.duluthport.com
-726,United States,Freeport,US FRP,28° 57' N / 95° 21' W,"28.95, 95.35",[1] (979) 233-2667,
-727,United States,"Hampton Roads(Norfolk, Chesapeake)",US HNV,36° 59' N / 76° 26' W,"36.98333333, 76.43333333",[1] (757) 683-8000,www.vaports.com
-728,United States,Honolulu,US HNL,21° 19' N / 157° 52' W,"21.31666667, 157.86666667",[1] (808) 587-1927,www.hawaii.gov/dot
-729,United States,Houston,US HOU,29° 45' N / 95° 20' W,"29.75, 95.33333333",[1] (713) 670-2400,www.portofhouston.com
-730,United States,Huntington – Tri-State(WV),US HTS,38° 36' N / 95° 20' W,"38.6, 95.33333333",[1] (606) 931-0995,www.huntingtonwaterways.com/
-731,United States,Jacksonville,US JAX,30° 20' N / 81° 40' W,"30.33333333, 81.66666667",[1] (904) 357-3000,www.jaxport.com
-732,United States,Lake Charles,US LCH,30° 13' N / 93° 15' W,"30.21666667, 93.25",[1] (337) 439-3661,www.portlc.com
+714,United States,Anacortes,US AOT,48° 31' N / 122° 36' W,"48.51666667, -121.4",[1] (360) 293-3134,www.portofanacortes.com
+715,United States,Ashtabula,US ASF,41° 54' N / 80° 48' W,"41.9, -79.2",[1] (440) 964-7047,www.ashtabulacityport.com
+716,United States,Baltimore,US BAL,39° 17' N / 76° 35' W,"39.28333333, -75.41666667",[1] (410) 385-4401,www.mpa.maryland.gov
+717,United States,Baton Rouge,US BTR,30° 28' N / 91° 12' W,"30.46666667, -90.8",[1] (225) 342-1660,www.portgbr.com
+718,United States,Beaumont,US BPT,30° 5' N / 94° 5' W,"30.08333333, -93.91666667",[1] (409) 835-5367,www.portofbeaumont.com
+719,United States,Boston,US BOS,42° 21' N / 71° 5' W,"42.35, -70.91666667",[1] (617) 946-4413,www.massport.com/port-of-boston
+720,United States,Charleston,US CHS,32° 47' N / 79° 56' W,"32.78333333, -78.06666667",[1] (843) 557-8600,www.scspa.com
+721,United States,Chicago,US CHI,41° 50' N / 87° 38' W,"41.83333333, -86.36666667",[1] (773) 646-4400,www.illinoisinternationalportdistrict.com
+722,United States,Cleveland,US CLE,41° 31' N / 81° 43' W,"41.51666667, -80.28333333",[1] (216) 241-8004,www.portofcleveland.com
+723,United States,Corpus Christi,US CRP,27° 48' N / 97° 23' W,"27.8, -96.61666667",[1] (361) 882-5633,www.portofcorpuschristi.com
+724,United States,Detroit,US DET,42° 20' N / 83° 2' W,"42.33333333, -82.96666667",[1] (313) 331-3842,www.portdetroit.com
+725,United States,Duluth-Superior,US DLH,46° 44' N / 92° 6' W,"46.73333333, -91.9",[1] (218) 727-8525,www.duluthport.com
+726,United States,Freeport,US FRP,28° 57' N / 95° 21' W,"28.95, -94.65",[1] (979) 233-2667,
+727,United States,"Hampton Roads(Norfolk, Chesapeake)",US HNV,36° 59' N / 76° 26' W,"36.98333333, -75.56666667",[1] (757) 683-8000,www.vaports.com
+728,United States,Honolulu,US HNL,21° 19' N / 157° 52' W,"21.31666667, -156.13333333",[1] (808) 587-1927,www.hawaii.gov/dot
+729,United States,Houston,US HOU,29° 45' N / 95° 20' W,"29.75, -94.66666667",[1] (713) 670-2400,www.portofhouston.com
+730,United States,Huntington – Tri-State(WV),US HTS,38° 36' N / 95° 20' W,"38.6, -94.66666667",[1] (606) 931-0995,www.huntingtonwaterways.com/
+731,United States,Jacksonville,US JAX,30° 20' N / 81° 40' W,"30.33333333, -80.33333333",[1] (904) 357-3000,www.jaxport.com
+732,United States,Lake Charles,US LCH,30° 13' N / 93° 15' W,"30.21666667, -92.75",[1] (337) 439-3661,www.portlc.com
 733,United States,Long Beach,US LGB,33° 76 N / 118° 21',"33.11666667, 118",[1] (562) 437-0041,www.polb.com
-734,United States,Los Angeles,US LAX,33° 43' N / 82° 55' W,"33.71666667, 82.91666667",[1] (310) 732-3400,www.portoflosangeles.org
-735,United States,Manatee,US MEE,27° 32' N / 82° 34' W,"27.53333333, 82.56666667",[1] (941) 722-6621,www.portmanatee.com
-736,United States,Memphis,US MEM,35° 04' N / 90° 10' W,"35.06666667, 90.16666667",[1] (901) 948-4422,www.portofmemphis.com
-737,United States,Miami,US MIA,25° 46' N / 80° 10' W,"25.76666667, 80.16666667",[1] (305) 347-4800,www.miamidade.gov/portofmiami
-738,United States,Mobile,US MOB,30° 40' N / 88° 2' W,"30.66666667, 88.03333333",[1] (251) 441-7100,www.asdd.com
-739,United States,New Orleans,US,29° 57' N / 90° 4' W,"29.95, 90.06666667",[1] (504) 528-3203,www.portno.com
-740,United States,New York/New Jersey,US NYC,40° 43' N / 74° 0' W,"40.71666667, 74.0",[1] (212) 435-4218,www.panynj.gov
-741,United States,Oakland,US OAK,37° 50' N / 122° 18' W,"37.83333333, 122.3",[1] (510) 627-1339,www.portofoakland.com
-742,United States,Pascagoula,US PGL,30° 21' N / 88° 34' W,"30.35, 88.56666667",[1] (228) 762-4041,www.portofpascagoula.com
-743,United States,Philadelphia,US PHL,39° 57' N / 75° 10' W,"39.95, 75.16666667",[1] (215) 426-2600,www.philaport.com
-744,United States,Pittsburgh,US PIT,44° 45' N / 80° W,"44.75, 80",[1] (412) 201-7330,www.port.pittsburgh.pa.us
-745,United States,Plaquemines(Louisiana),US PLQ,30 13' N / 91 18' W,"3.21666667, 9.3",[1] (504) 682-2488,www.lded.state.la.us
-746,United States,Port Arthur,US POA,28° 52' N / 93° 56' W,"28.86666667, 93.93333333",[1] (409) 983-2011,www.portofportarthur.com
-747,United States,Port Everglades,US PEF,26° 5' N / 80° 5' W,"26.08333333, 80.08333333",[1] (954) 523-3404,www.porteverglades.net
-748,United States,Portland (Maine),US PWM,43° 39' N / 70° 14' W,"43.65, 70.23333333",[1] (207) 874-8892,www.portofportlandmaine.org
-749,United States,Portland (Oregon),US PDX,45° 30' N / 122° 40' W,"45.5, 122.66666667",[1] (503) 944-7544,www.portofportland.com
-750,United States,Richmond (CA),US RCH,37° 56' N / 122° 25' W,"37.93333333, 122.41666667",[1] (510) 215-4600,www.ci.richmond.ca.us
-751,United States,Richmond (VA),US RIC,37° 27' N / 77° 25' W,"37.45, 77.41666667",[1] (804) 646-2020,www.portofrichmond.com
-752,United States,Savannah,US SAV,32° 2' N / 81° 7' W,"32.03333333, 81.11666667",[1] (912) 964-3874,www.gaports.com
-753,United States,Seattle,US SEA,47° 36' N / 122° 20' W,"47.6, 122.33333333",[1] (206) 728-3015,www.portseattle.org
-754,United States,South Louisiana,US LUA,30° 00' N / 90° 30' W,"30.0, 90.5",[1] (985) 652-9278,www.portsl.com
-755,United States,Tacoma,US ACI,47° 14' N / 122° 28' W,"47.23333333, 122.46666667",[1] (253) 383-5841,www.portoftacoma.com
-756,United States,Tampa,US TPA,27° 57' N / 82° 28' W,"27.95, 82.46666667",[1] (813) 905-7678,www.tampaport.com
-757,United States,Texas City,US TXT,29° 22' N / 94° 53' W,"29.36666667, 94.88333333",[1] (409) 945-4461,www.railporttc.com
-758,United States,Valdez,US VDZ,61° 7' N / 146° 21' W,"61.11666667, 146.35",[1] (907) 835-4564,www.ci.valdez.ak.us/port
-759,United States,Wilmington (DE),US ILM,39° 45' N / 75° 30' W,"39.75, 75.5",[1] (302) 472-7802,www.portofwilmingtonde.com
-760,United States,Wilmington (NC),US ILG,34° 14' N / 77° 57' W,"34.23333333, 77.95",[1] (910) 763-1621,www.ncports.com
-761,United States,Yakutat,US YAK,59° 29' N / 139° 49' W,"59.48333333, 139.81666667",[1] (907) 784-3323,
-762,Uruguay,Fray Bentos,UY FZB,33° 6' S / 58° 19' W,"33.1, 58.31666667",[598] (2) 916-4747,www.anp.com.uy/fraybentos/default.asp
-763,Uruguay,Montevideo,UY MVD,34° 55' S / 56° 13' W,"34.91666667, 56.21666667",[598] (2) 916-4747,www.anp.com.uy/montevideo/default.asp
-764,Uruguay,Nueva Palmira,UY NVP,33° 52' S / 58° 20' W,"33.86666667, 58.33333333",[598] (2) 916-4747,www.anp.com.uy/nuevapalmira/default.asp
-765,Uruguay,Paysandu,UY PDU,32° 18' S / 58° 6' W,"32.3, 58.1",[598] 722-3154,www.anp.com.uy/paysandu/default.asp
-766,Vanuatu,Port Vila,VU VLI,17° 45' S / 168° 18' E,"17.75, 168.3",[678] 22339,
-767,Vanuatu,Santo,VU SAN,15° 31' S / 167° 11' E,"15.51666667, 167.18333333",[678] 36033,www.sofrana.com
-768,Venezuela,Bajo Grande Refinery,VE BJV,10° 31' N / 71° 36' W,"10.51666667, 71.6",[58] (264) 719-092,www.seaport.com.ve/ports.asp
-769,Venezuela,Cumana (Puerto Sucre),VE CUM,10° 28' N / 64° 7' W,"10.46666667, 64.11666667",[58] (293) 64455,www.seaport.com.ve/ports.asp
-770,Venezuela,La Guaira,VE LAG,10° 38' N / 67° 7' W,"10.63333333, 67.11666667",[58] (212) 332-4992,www.seaport.com.ve/ports.asp
-771,Venezuela,La Salina,VE LSV,10° 22' N / 71° 27' W,"10.36666667, 71.45",[58] (261) 201-111,www.seaport.com.ve/ports.asp
-772,Venezuela,Maracaibo,VE MAR,10° 42' N / 71° 39' W,"10.7, 71.65",[58] (261) 231-1721,www.puertodemaracaibo.com
-773,Venezuela,Matanzas,VE MTV,8° 18' N / 62° 50' W,"8.3, 62.83333333",[58] (285) 20049,www.seaport.com.ve/ports.asp
-774,Venezuela,Palua,VE PLA,8° 22' N / 62° 42' W,"8.36666667, 62.7",[58] (286) 942-419,www.seaport.com.ve/ports.asp
-775,Venezuela,Puerto Cabello,VE PBL,10° 29' N / 68° 1' W,"10.48333333, 68.01666667",[58] (242) 380-1974,www.seaport.com.ve/ports.asp
-776,Venezuela,Puerto La Cruz,VE PCZ,10° 13' N / 64° 38' W,"10.21666667, 64.63333333",[58] (280) 260-3795,www.seaport.com.ve/ports.asp
-777,Venezuela,Punta Cardon,VE PCN,11° 38' N / 70° 14' W,"11.63333333, 70.23333333",[58] (264) 719-092,www.seaport.com.ve/ports.asp
+734,United States,Los Angeles,US LAX,33° 43' N / 82° 55' W,"33.71666667, -81.08333333",[1] (310) 732-3400,www.portoflosangeles.org
+735,United States,Manatee,US MEE,27° 32' N / 82° 34' W,"27.53333333, -81.43333333",[1] (941) 722-6621,www.portmanatee.com
+736,United States,Memphis,US MEM,35° 04' N / 90° 10' W,"35.06666667, -89.83333333",[1] (901) 948-4422,www.portofmemphis.com
+737,United States,Miami,US MIA,25° 46' N / 80° 10' W,"25.76666667, -79.83333333",[1] (305) 347-4800,www.miamidade.gov/portofmiami
+738,United States,Mobile,US MOB,30° 40' N / 88° 2' W,"30.66666667, -87.96666667",[1] (251) 441-7100,www.asdd.com
+739,United States,New Orleans,US,29° 57' N / 90° 4' W,"29.95, -89.93333333",[1] (504) 528-3203,www.portno.com
+740,United States,New York/New Jersey,US NYC,40° 43' N / 74° 0' W,"40.71666667, -74.0",[1] (212) 435-4218,www.panynj.gov
+741,United States,Oakland,US OAK,37° 50' N / 122° 18' W,"37.83333333, -121.7",[1] (510) 627-1339,www.portofoakland.com
+742,United States,Pascagoula,US PGL,30° 21' N / 88° 34' W,"30.35, -87.43333333",[1] (228) 762-4041,www.portofpascagoula.com
+743,United States,Philadelphia,US PHL,39° 57' N / 75° 10' W,"39.95, -74.83333333",[1] (215) 426-2600,www.philaport.com
+744,United States,Pittsburgh,US PIT,44° 45' N / 80° W,"44.75, -80",[1] (412) 201-7330,www.port.pittsburgh.pa.us
+745,United States,Plaquemines(Louisiana),US PLQ,30 13' N / 91 18' W,"3.21666667, -8.7",[1] (504) 682-2488,www.lded.state.la.us
+746,United States,Port Arthur,US POA,28° 52' N / 93° 56' W,"28.86666667, -92.06666667",[1] (409) 983-2011,www.portofportarthur.com
+747,United States,Port Everglades,US PEF,26° 5' N / 80° 5' W,"26.08333333, -79.91666667",[1] (954) 523-3404,www.porteverglades.net
+748,United States,Portland (Maine),US PWM,43° 39' N / 70° 14' W,"43.65, -69.76666667",[1] (207) 874-8892,www.portofportlandmaine.org
+749,United States,Portland (Oregon),US PDX,45° 30' N / 122° 40' W,"45.5, -121.33333333",[1] (503) 944-7544,www.portofportland.com
+750,United States,Richmond (CA),US RCH,37° 56' N / 122° 25' W,"37.93333333, -121.58333333",[1] (510) 215-4600,www.ci.richmond.ca.us
+751,United States,Richmond (VA),US RIC,37° 27' N / 77° 25' W,"37.45, -76.58333333",[1] (804) 646-2020,www.portofrichmond.com
+752,United States,Savannah,US SAV,32° 2' N / 81° 7' W,"32.03333333, -80.88333333",[1] (912) 964-3874,www.gaports.com
+753,United States,Seattle,US SEA,47° 36' N / 122° 20' W,"47.6, -121.66666667",[1] (206) 728-3015,www.portseattle.org
+754,United States,South Louisiana,US LUA,30° 00' N / 90° 30' W,"30.0, -89.5",[1] (985) 652-9278,www.portsl.com
+755,United States,Tacoma,US ACI,47° 14' N / 122° 28' W,"47.23333333, -121.53333333",[1] (253) 383-5841,www.portoftacoma.com
+756,United States,Tampa,US TPA,27° 57' N / 82° 28' W,"27.95, -81.53333333",[1] (813) 905-7678,www.tampaport.com
+757,United States,Texas City,US TXT,29° 22' N / 94° 53' W,"29.36666667, -93.11666667",[1] (409) 945-4461,www.railporttc.com
+758,United States,Valdez,US VDZ,61° 7' N / 146° 21' W,"61.11666667, -145.65",[1] (907) 835-4564,www.ci.valdez.ak.us/port
+759,United States,Wilmington (DE),US ILM,39° 45' N / 75° 30' W,"39.75, -74.5",[1] (302) 472-7802,www.portofwilmingtonde.com
+760,United States,Wilmington (NC),US ILG,34° 14' N / 77° 57' W,"34.23333333, -76.05",[1] (910) 763-1621,www.ncports.com
+761,United States,Yakutat,US YAK,59° 29' N / 139° 49' W,"59.48333333, -138.18333333",[1] (907) 784-3323,
+762,Uruguay,Fray Bentos,UY FZB,33° 6' S / 58° 19' W,"-32.9, -57.68333333",[598] (2) 916-4747,www.anp.com.uy/fraybentos/default.asp
+763,Uruguay,Montevideo,UY MVD,34° 55' S / 56° 13' W,"-33.08333333, -55.78333333",[598] (2) 916-4747,www.anp.com.uy/montevideo/default.asp
+764,Uruguay,Nueva Palmira,UY NVP,33° 52' S / 58° 20' W,"-32.13333333, -57.66666667",[598] (2) 916-4747,www.anp.com.uy/nuevapalmira/default.asp
+765,Uruguay,Paysandu,UY PDU,32° 18' S / 58° 6' W,"-31.7, -57.9",[598] 722-3154,www.anp.com.uy/paysandu/default.asp
+766,Vanuatu,Port Vila,VU VLI,17° 45' S / 168° 18' E,"-16.25, 168.3",[678] 22339,
+767,Vanuatu,Santo,VU SAN,15° 31' S / 167° 11' E,"-14.48333333, 167.18333333",[678] 36033,www.sofrana.com
+768,Venezuela,Bajo Grande Refinery,VE BJV,10° 31' N / 71° 36' W,"10.51666667, -70.4",[58] (264) 719-092,www.seaport.com.ve/ports.asp
+769,Venezuela,Cumana (Puerto Sucre),VE CUM,10° 28' N / 64° 7' W,"10.46666667, -63.88333333",[58] (293) 64455,www.seaport.com.ve/ports.asp
+770,Venezuela,La Guaira,VE LAG,10° 38' N / 67° 7' W,"10.63333333, -66.88333333",[58] (212) 332-4992,www.seaport.com.ve/ports.asp
+771,Venezuela,La Salina,VE LSV,10° 22' N / 71° 27' W,"10.36666667, -70.55",[58] (261) 201-111,www.seaport.com.ve/ports.asp
+772,Venezuela,Maracaibo,VE MAR,10° 42' N / 71° 39' W,"10.7, -70.35",[58] (261) 231-1721,www.puertodemaracaibo.com
+773,Venezuela,Matanzas,VE MTV,8° 18' N / 62° 50' W,"8.3, -61.16666667",[58] (285) 20049,www.seaport.com.ve/ports.asp
+774,Venezuela,Palua,VE PLA,8° 22' N / 62° 42' W,"8.36666667, -61.3",[58] (286) 942-419,www.seaport.com.ve/ports.asp
+775,Venezuela,Puerto Cabello,VE PBL,10° 29' N / 68° 1' W,"10.48333333, -67.98333333",[58] (242) 380-1974,www.seaport.com.ve/ports.asp
+776,Venezuela,Puerto La Cruz,VE PCZ,10° 13' N / 64° 38' W,"10.21666667, -63.36666667",[58] (280) 260-3795,www.seaport.com.ve/ports.asp
+777,Venezuela,Punta Cardon,VE PCN,11° 38' N / 70° 14' W,"11.63333333, -69.76666667",[58] (264) 719-092,www.seaport.com.ve/ports.asp
 778,Vietnam,Danang,VN DAD,16° 6' N / 108° 18' E,"16.1, 108.3",[84] (511) 822-513,www.danangportvn.com
 779,Vietnam,Haiphong,VN HPH,20° 52' N / 106° 41' E,"20.86666667, 106.68333333",[84] (31) 859-945,www.haiphongport.com.vn
 780,Vietnam,Ho Chi Minh City,VN SGN,10° 50' N / 106° 45' E,"10.83333333, 106.75",[84] (8) 940-1825,www.csg.com.vn/index.jsp
 781,Vietnam,Hon Gay,VN HON,20° 57' N / 107° 6' E,"20.95, 107.1",[84] (33) 825-627,
 782,Vietnam,Nha Trang,VN NHA,12° 12' N / 109° 13' E,"12.2, 109.21666667",[84] (58) 590-024,www.nhatrangport.com.vn/MainE.htm
-783,Virgin Isl. (US),"Charlotte Amalie, St. Thomas",VI STT,18° 20' N / 64° 56' W,"18.33333333, 64.93333333",[1] (340) 774-1629,www.viport.com
-784,Virgin Islands (US),"Christiansted, St.Croix",VI CTD,17° 45' N / 64° 41' W,"17.75, 64.68333333",[1] (340) 774-1629,www.viport.com
-785,Virgin Islands (US),Limetree Bay,VI LIB,17° 41' N / 64° 44' W,"17.68333333, 64.73333333",[1] (340) 692-3000,www.viport.com
+783,Virgin Isl. (US),"Charlotte Amalie, St. Thomas",VI STT,18° 20' N / 64° 56' W,"18.33333333, -63.06666667",[1] (340) 774-1629,www.viport.com
+784,Virgin Islands (US),"Christiansted, St.Croix",VI CTD,17° 45' N / 64° 41' W,"17.75, -63.31666667",[1] (340) 774-1629,www.viport.com
+785,Virgin Islands (US),Limetree Bay,VI LIB,17° 41' N / 64° 44' W,"17.68333333, -63.26666667",[1] (340) 692-3000,www.viport.com
 786,Yemen,Aden,YE ADE,12° 48' N / 44° 54' E,"12.8, 44.9",[967] (2) 202-666,www.portofaden.com
 787,Yemen,Hodeidah,YE HOD,14° 48' N / 42° 55' E,"14.8, 42.91666667",[967] (3) 211-600,
 788,Yemen,Mokha,YE MOK,13° 21' N / 43° 12' E,"13.35, 43.2",[967] (3) 462-118,

@@ -14,6 +14,7 @@ def regular2gcoords():
             long_coord = split_coords[1]
             split_lat = lat_coord.split(' ') 
             split_long = long_coord.split(' ')
+            print(split_lat)
             latitude = 0
             longitude = 0            
             if len(split_lat) == 3:
@@ -21,6 +22,8 @@ def regular2gcoords():
                 lat_degree = int(lat_degree_str)
                 lat_min = 0
                 lat_sec = 0
+                if split_lat[1] == 'S':
+                    lat_degree = -lat_degree
                 latitude = round(lat_degree + lat_min + lat_sec, 8)
             elif len(split_lat) == 4:
                 lat_degree_str = split_lat[0][0:-1]
@@ -28,6 +31,8 @@ def regular2gcoords():
                 lat_degree = int(lat_degree_str)
                 lat_min = int(lat_min_str)/60
                 lat_sec = 0
+                if split_lat[2] == 'S':
+                    lat_degree = -lat_degree
                 latitude = round(lat_degree + lat_min + lat_sec, 8)
             else:
                 lat_degree_str = split_lat[0][0:-1]
@@ -36,6 +41,8 @@ def regular2gcoords():
                 lat_degree = int(lat_degree_str)
                 lat_min = int(lat_min_str)/60
                 lat_sec = int(lat_sec_str)/3600
+                if split_lat[3] == 'S':
+                    lat_degree = -lat_degree
                 latitude = round(lat_degree + lat_min + lat_sec, 8)
 
             if len(split_long) == 3:
@@ -43,6 +50,8 @@ def regular2gcoords():
                 long_degree = int(long_degree_str)
                 long_min = 0
                 long_sec = 0
+                if split_long[2] == 'W':
+                    long_degree = -long_degree
                 longitude = round(long_degree + long_min + long_sec, 8)
             elif len(split_long) == 4:
                 long_degree_str = split_long[1][0:-1]
@@ -50,6 +59,8 @@ def regular2gcoords():
                 long_degree = int(long_degree_str)
                 long_min = int(long_min_str)/60
                 long_sec = 0
+                if split_long[3] == 'W':
+                    long_degree = -long_degree
                 longitude = round(long_degree + long_min + long_sec, 8)
             else:
                 long_degree_str = split_long[1][0:-1]
@@ -58,6 +69,8 @@ def regular2gcoords():
                 long_degree = int(long_degree_str)
                 long_min = int(long_min_str)/60
                 long_sec = int(long_sec_str)/3600
+                if split_long[4] == 'W':
+                    long_degree = -long_degree
                 longitude = round(long_degree + long_min + long_sec, 8)
 
             coordinates_str = str(latitude) + ", " + str(longitude)
