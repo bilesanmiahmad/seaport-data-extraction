@@ -4,6 +4,8 @@ import numpy
 
 def regular2gcoords():
     gcoords = []
+    longitudes = []
+    latitudes = []
     with open('seaports.csv', mode='r') as csv_file:
         csv_reader = csv.DictReader(csv_file)
         line_count = 0
@@ -75,14 +77,18 @@ def regular2gcoords():
 
             coordinates_str = str(latitude) + ", " + str(longitude)
             gcoords.append(coordinates_str)
-    return gcoords
+            latitudes.append(latitude)
+            longitudes.append(longitude)
+    return [gcoords, latitudes, longitudes]
 
 csv_reader = csv.DictReader(open('seaports1.csv', mode='r'))
 
 def update_csv():
     gcodes = regular2gcoords()
     data = pd.read_csv("seaports1.csv")
-    data['Google coordinates'] = gcodes
+    data['Google coordinates'] = gcodes[0]
+    data['latitudes'] = gcodes[1]
+    data['longitudes'] = gcodes[2]
     print(data.head())
     data.to_csv(r'/home/medo-bills/DataScience/pdf-extract/gc.csv')
 
