@@ -93,4 +93,27 @@ def update_csv():
     data.to_csv(r'/home/medo-bills/DataScience/pdf-extract/gc.csv')
 
 
-update_csv()
+
+def column_split(file):
+    latitudes = []
+    longitudes = []
+    with open(file, mode='r') as csv_file:
+        csv_reader = csv.DictReader(csv_file)
+        for row in csv_reader:
+            coords = row['coordinates']
+            split_coords = coords.split(', ')
+            latitudes.append(split_coords[0])
+            longitudes.append(split_coords[1])
+    return [latitudes, longitudes]
+
+
+def add_new_columns(data):
+    csv_file = pd.read_csv('ga.csv')
+    csv_file['latitudes'] = data[0]
+    csv_file['longitudes'] = data[1]
+    csv_file.to_csv(r'/home/medo-bills/DataScience/pdf-extract/globalairports.csv')
+    
+# update_csv()
+airport_coords = column_split('ga.csv')
+
+add_new_columns(airport_coords)
